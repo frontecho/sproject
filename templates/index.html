@@ -1,0 +1,35 @@
+<!DOCTYPE html> 
+<html> 
+    <head> 
+    <meta charset="utf-8" /> 
+    <title>监视器</title> 
+    <script src="{{url_for('static', filename='jquery.js')}}"></script>
+    <script type=text/javascript>
+        function update_values() {
+            $SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
+            $.getJSON($SCRIPT_ROOT+"/info",
+                function(data) {
+                    document.getElementById('code').innerHTML = data.ctrlcode;
+                    document.getElementById('txt').innerHTML = data.txt;
+                    document.getElementById('num').innerHTML = data.number;
+                    document.getElementById('name').innerHTML = data.name;
+                    document.images.imgInit.src=data.picloc;
+                });
+        };
+        setInterval(update_values, 500) //每0.5s向服务器发送请求
+    </script>
+    </head> 
+    <body>
+        <h2>监视器</h2>
+        <p><b>控制代码：</b></p>
+        <p id="code"></p>
+        <p><b>提示信息：</b></p>
+        <p id="txt"></p>
+        <p><b>车牌号码：</b></p>
+        <p id="num"></p>
+        <p><b>车主姓名：</b></p>
+        <p id="name"></p>
+        <p><b>车牌图片：</b></p>
+        <img src="?" id="imgInit">
+    </body> 
+</html>

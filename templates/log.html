@@ -1,0 +1,28 @@
+<!DOCTYPE html> 
+<html> 
+    <head> 
+    <meta charset="utf-8" /> 
+    <title>日志</title> 
+    </head> 
+    <body>
+        <h2>日志</h2>
+        <p>抓取时间：{{ time }}</p>
+        <table>
+            <thead>
+                <th>时间</th>
+                <th>车牌号</th>
+                <th>状态</th>
+                <th>照片路径</th>
+            </thead>
+            <tbody>
+                {% for log in loginfo %}
+                    <tr>
+                        <td align="center">{{ log[0] }}</td>
+                        <td align="center">{{ log[1] }}</td>
+                        <td align="center">{{ log[3] }}</td>
+                        <td align="center"><a href="{{ log[2] }}">{{ log[2] }}</a></td>
+                    </tr>
+                {% endfor%}
+            </tbody>
+        </table>
+</html>
