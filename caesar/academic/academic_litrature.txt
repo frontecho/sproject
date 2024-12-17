@@ -1,0 +1,1938 @@
+Fredric Jameson
+
+Postmodernism, or The Cultural Logic of
+Late Capitalism
+
+The last few years have been marked by an inverted millennarianism, in
+which premonitions of the future, catastrophic or redemptive, have been
+replaced by senses of the end of this or that (the end of ideology, art, or
+social class; the ‘crisis’ of Leninism, social democracy, or the welfare state,
+etc., etc.): taken together, all of these perhaps constitute what is increasingly
+called postmodernism. The case for its existence depends on the hypothesis
+of some radical break or coupure, generally traced back to the end of the 1950s
+or the early 1960s. As the word itself suggests, this break is most often
+related to notions of the waning or extinction of the hundred-year-old
+modern movement (or to its ideological or aesthetic repudiation). Thus,
+abstract expressionism in painting, existentialism in philosophy, the final
+forms of representation in the novel, the films of the great auteurs, or the
+modernist school of poetry (as institutionalized and canonized in the works
+of Wallace Stevens): all these are now seen as the final, extraordinary
+flowering of a high modernist impulse which is spent and exhausted with
+53
+
+them. The enumeration of what follows then at once becomes empirical,
+chaotic, and heterogeneous: Andy Warhol and pop art, but also
+photorealism, and beyond it, the ‘new expressionism’; the moment, in
+music, of John Cage, but also the synthesis of classical and ‘popular’
+styles found in composers like Phil Glass and Terry Riley, and also
+punk and new wave rock (the Beatles and the Stones now standing as
+the high-modernist moment of that more recent and rapidly evolving
+tradition); in film, Godard, post-Godard and experimental cinema and
+video, but also a whole new type of commercial film (about which more
+below); Burroughs, Pynchon, or Ishmael Reed, on the one hand, and
+the French nouveau roman and its succession on the other, along with
+alarming new kinds of literary criticism, based on some new aesthetic of
+textuality or écriture . . . The list might be extended indefinitely; but
+does it imply any more fundamental change or break than the periodic
+style- and fashion-changes determined by an older high-modernist
+imperative of stylistic innovation?*.
+The Rise of Aesthetic Populism
+
+It is in the realm of architecture, however, that modifications in aesthetic
+production are most dramatically visible, and that their theoretical
+problems have been most centrally raised and articulated; it was indeed
+from architectural debates that my own conception of postmodernism—
+as it will be outlined in the following pages—initially began to emerge.
+More decisively than in the other arts or media, postmodernist positions
+in architecture have been inseparable from an implacable critique of
+architectural high modernism and of the so-called International Style
+(Frank Lloyd Wright, Le Corbusier, Mies), where formal criticism and
+analysis (of the high-modernist transformation of the building into a
+virtual sculpture, or monumental ‘duck’, as Robert Venturi puts it) are
+at one with reconsiderations on the level of urbanism and of the
+aesthetic institution. High modernism is thus credited with the destruction of the fabric of the traditional city and of its older neighbourhood
+culture (by way of the radical disjunction of the new Utopian highmodernist building from its surrounding context); while the prophetic
+elitism and authoritarianism of the modern movement are remorselessly
+denounced in the imperious gesture of the charismatic Master.
+Postmodernism in architecture will then logically enough stage itself as
+a kind of aesthetic populism, as the very title of Venturi’s influential
+manifesto, Learning from Las Vegas, suggests. However we may ultimately wish to evaluate this populist rhetoric, it has at least the merit of
+drawing our attention to one fundamental feature of all the postmodernisms enumerated above: namely, the effacement in them of the older
+(essentially high-modernist) frontier between high culture and so-called
+mass or commercial culture, and the emergence of new kinds of texts
+infused with the forms, categories and contents of that very Culture
+Industry so passionately denounced by all the ideologues of the modern,
+from Leavis and the American New Criticism all the way to Adorno
+* The present essay draws on lectures and on material previously published in The Anti-Aesthetic,
+edited by Hal Foster, (Port Townsend, Washington: Bay Press 1983) and in Amerika Studien/American
+Studies 29/1 (1984).
+
+54
+
+and the Frankfurt School. The postmodernisms have in fact been
+fascinated precisely by this whole ‘degraded’ landscape of schlock and
+kitsch, of TV series and Readers’ Digest culture, of advertising and
+motels, of the late show and the grade-B Hollywood film, of so-called
+paraliterature with its airport paperback categories of the gothic and
+the romance, the popular biography, the murder mystery and sciencefiction or fantasy novel: materials they no longer simply ‘quote’, as a
+Joyce or a Mahler might have done, but incorporate into their very
+substance.
+Nor should the break in question be thought of as a purely cultural
+affair: indeed, theories of the postmodern—whether celebratory or
+couched in the language of moral revulsion and denunciation—bear a
+strong family resemblance to all those more ambitious sociological
+generalizations which, at much the same time, bring us the news of the
+arrival and inauguration of a whole new type of society, most famously
+baptized ‘post-industrial society’ (Daniel Bell), but often also designated
+consumer society, media society, information society, electronic society
+or ‘high tech’, and the like. Such theories have the obvious ideological
+mission of demonstrating, to their own relief, that the new social
+formation in question no longer obeys the laws of classical capitalism,
+namely the primacy of industrial production and the omnipresence of
+class struggle. The Marxist tradition has therefore resisted them with
+vehemence, with the signal exception of the economist Ernest Mandel,
+whose book Late Capitalism sets out not merely to anatomize the
+historic originality of this new society (which he sees as a third stage or
+moment in the evolution of capital), but also to demonstrate that it is,
+if anything, a purer stage of capitalism than any of the moments that
+preceded it. I will return to this argument later; suffice it for the
+moment to emphasize a point I have defended in greater detail
+elsewhere*, namely that every position on postmodernism in culture—
+whether apologia or stigmatization—is also at one and the same time,
+and necessarily, an implicitly or explicitly political stance on the nature of
+multinational capitalism today.
+Postmodernism as Cultural Dominant
+
+A last preliminary word on method: what follows is not to be read as
+stylistic description, as the account of one cultural style or movement
+among others. I have rather meant to offer a periodizing hypothesis,
+and that at a moment in which the very conception of historical
+periodization has come to seem most problematical indeed. I have
+argued elsewhere that all isolated or discrete cultural analysis always
+involves a buried or repressed theory of historical periodization; in any
+case, the conception of the ‘genealogy’ largely lays to rest traditional
+theoretical worries about so-called linear history, theories of ‘stages’,
+and teleological historiography. In the present context, however,
+lengthier theoretical discussion of such (very real) issues can perhaps be
+replaced by a few substantive remarks.
+One of the concerns frequently aroused by periodizing hypotheses is
+* In ‘The Politics of Theory’, New German Critique, 32, Spring/Summer 1984.
+
+55
+
+that these tend to obliterate difference, and to project an idea of the
+historical period as massive homogeneity (bounded on either side by
+inexplicable ‘chronological’ metamorphoses and punctuation marks).
+This is, however, precisely why it seems to me essential to grasp
+‘postmodernism’ not as a style, but rather as a cultural dominant: a
+conception which allows for the presence and coexistence of a range of
+very different, yet subordinate features.
+Consider, for example, the powerful alternative position that postmodernism is itself little more than one more stage of modernism proper (if
+not, indeed, of the even older romanticism); it may indeed be conceded
+that all of the features of postmodernism I am about to enumerate can
+be detected, full-blown, in this or that preceding modernism (including
+such astonishing genealogical precursors as Gertrude Stein, Raymond
+Roussel, or Marcel Duchamp, who may be considered outright postmodernists, avant la lettre). What has not been taken into account by this
+view is, however, the social position of the older modernism, or better
+still, its passionate repudiation by an older Victorian and post-Victorian
+bourgeoisie, for whom its forms and ethos are received as being
+variously ugly, dissonant, obscure, scandalous, immoral, subversive and
+generally ‘anti-social’. It will be argued here that a mutation in the
+sphere of culture has rendered such attitudes archaic. Not only are
+Picasso and Joyce no longer ugly; they now strike us, on the whole, as
+rather ‘realistic’; and this is the result of a canonization and an academic
+institutionalization of the modern movement generally, which can be
+traced to the late 1950s. This is indeed surely one of the most plausible
+explanations for the emergence of postmodernism itself, since the
+younger generation of the 1960s will now confront the formerly
+oppositional modern movement as a set of dead classics, which ‘weigh
+like a nightmare on the brains of the living’, as Marx once said in a
+different context.
+As for the postmodern revolt against all that, however, it must equally
+be stressed that its own offensive features—from obscurity and sexually
+explicit material to psychological squalor and overt expressions of social
+and political defiance, which transcend anything that might have been
+imagined at the most extreme moments of high modernism—no longer
+scandalize anyone and are not only received with the greatest complacency but have themselves become institutionalized and are at one with
+the official culture of Western society.
+What has happened is that aesthetic production today has become
+integrated into commodity production generally: the frantic economic
+urgency of producing fresh waves of ever more novel-seeming goods
+(from clothing to airplanes), at ever greater rates of turnover, now
+assigns an increasingly essential structural function and position to
+aesthetic innovation and experimentation. Such economic necessities
+then find recognition in the institutional support of all kinds available
+for the newer art, from foundations and grants to museums and other
+forms of patronage. Architecture is, however, of all the arts that closest
+constitutively to the economic, with which, in the form of commissions
+and land values, it has a virtually unmediated relationship: it will
+therefore not be surprising to find the extraordinary flowering of the
+56
+
+new postmodern architecture grounded in the patronage of multinational business, whose expansion and development is strictly contemporaneous with it. That these two new phenomena have an even deeper
+dialectical interrelationship than the simple one-to-one financing of this
+or that individual project we will try to suggest later on. Yet this is the
+point at which we must remind the reader of the obvious, namely that
+this whole global, yet American, postmodern culture is the internal and
+superstructural expression of a whole new wave of American military
+and economic domination throughout the world: in this sense, as
+throughout class history, the underside of culture is blood, torture,
+death and horror.
+The first point to be made about the conception of periodization in
+dominance, therefore, is that even if all the constitutive features of
+postmodernism were identical and continuous with those of an older
+modernism—a position I feel to be demonstrably erroneous but which
+only an even lengthier analysis of modernism proper could dispel—the
+two phenomena would still remain utterly distinct in their meaning and
+social function, owing to the very different positioning of postmodernism in the economic system of late capital, and beyond that, to the
+transformation of the very sphere of culture in contemporary society.
+More on this point at the conclusion of the present essay. I must now
+briefly address a different kind of objection to periodization, a different
+kind of concern about its possible obliteration of heterogeneity, which
+one finds most often on the Left. And it is certain that there is a strange
+quasi-Sartrean irony a ‘winner loses’ logic—which tends to surround
+any effort to describe—a ‘system’, a totalizing dynamic, as these are
+detected in the movement of contemporary society. What happens is
+that the more powerful the vision of some increasingly total system or
+logic—the Foucault of the prisons book is the obvious example—the
+more powerless the reader comes to feel. Insofar as the theorist wins,
+therefore, by constructing an increasingly closed and terrifying machine,
+to that very degree he loses, since the critical capacity of his work is
+thereby paralysed, and the impulses of negation and revolt, not to speak
+of those of social transformation, are increasingly perceived as vain and
+trivial in the face of the model itself.
+I have felt, however, that it was only in the light of some conception of
+a dominant cultural logic or hegemonic norm that genuine difference
+could be measured and assessed. I am very far from feeling that all
+cultural production today is ‘postmodern’ in the broad sense I will be
+conferring on this term. The postmodern is however the force field in
+which very different kinds of cultural impulses—what Raymond Williams has usefully termed ‘residual’ and ‘emergent’ forms of cultural
+production—must make their way. If we do not achieve some general
+sense of a cultural dominant, then we fall back into a view of present
+history as sheer heterogeneity, random difference, a coexistence of a
+host of distinct forces whose effectivity is undecidable. This has been at
+any rate the political spirit in which the following analysis was devised:
+to project some conception of a new systemic cultural norm and its
+reproduction, in order to reflect more adequately on the most effective
+forms of any radical cultural politics today.
+57
+
+The exposition will take up in turn the following constitutive features
+of the postmodern: a new depthlessness, which finds its prolongation
+both in contemporary ‘theory’ and in a whole new culture of the image
+or the simulacrum; a consequent weakening of historicity, both in our
+relationship to public History and in the new forms of our private
+temporality, whose ‘schizophrenic’ structure (following Lacan) will
+determine new types of syntax or syntagmatic relationships in the more
+temporal arts; a whole new type of emotional ground tone—what I will
+call ‘intensities’—which can best be grasped by a return to older theories
+of the sublime; the deep constitutive relationships of all this to a whole
+new technology, which is itself a figure for a whole new economic
+world system; and, after a brief account of postmodernist mutations in
+the lived experience of built space itself, some reflections on the mission
+of political art in the bewildering new world space of late multinational
+capital.
+
+I. The Deconstruction of Expression
+‘Peasant Shoes’
+
+We will begin with one of the canonical works of high modernism in
+visual art, Van Gogh’s well-known painting of the peasant shoes, an
+example which as you can imagine has not been innocently or randomly
+chosen. I want to propose two ways of reading this painting, both of
+which in some fashion reconstruct the reception of the work in a twostage or double-level process.
+I first want to suggest that if this copiously reproduced image is not to
+sink to the level of sheer decoration, it requires us to reconstruct some
+initial situation out of which the finished work emerges. Unless that
+situation—which has vanished into the past—is somehow mentally
+restored, the painting will remain an inert object, a reified end-product,
+and be unable to be grasped as a symbolic act in its own right, as praxis
+and as production.
+This last term suggests that one way of reconstructing the initial
+situation to which the work is somehow a response is by stressing the
+raw materials, the initial content, which it confronts and which it
+reworks, transforms, and appropriates. In Van Gogh, that content,
+those initial raw materials, are, I will suggest, to be grasped simply as
+the whole object world of agricultural misery, of stark rural poverty, and
+the whole rudimentary human world of backbreaking peasant toil, a
+world reduced to its most brutal and menaced, primitive and marginalized state.
+Fruit trees in this world are ancient and exhausted sticks coming out of
+poor soil; the people of the village are worn down to their skulls,
+caricatures of some ultimate grotesque typology of basic human feature
+types. How is it then that in Van Gogh such things as apple trees
+explode into a hallucinatory surface of colour, while his village
+stereotypes are suddenly and garishly overlaid with hues of red and
+green? I will briefly suggest, in this first interpretative option, that the
+willed and violent transformation of a drab peasant object world into
+58
+
+the most glorious materialization of pure colour in oil paint is to be
+seen as a Utopian gesture: as an act of compensation which ends up
+producing a whole new Utopian realm of the senses, or at least of that
+supreme sense—sight, the visual, the eye—which it now reconstitutes
+for us as a semi-autonomous space in its own right—part of some new
+division of labour in the body of capital, some new fragmentation of
+the emergent sensorium which replicates the specializations and divisions of capitalist life at the same time that it seeks in precisely such
+fragmentation a desperate Utopian compensation for them.
+There is, to be sure, a second reading of Van Gogh which can hardly be
+ignored when we gaze at this particular painting, and that is Heidegger’s
+central analysis in Der Ursprung des Kunstwerkes, which is organized
+around the idea that the work of art emerges within the gap between
+Earth and World, or what I would prefer to translate as the meaningless
+materiality of the body and nature and the meaning-endowment of
+history and of the social. We will return to that particular gap or rift
+later on; suffice it here to recall some of the famous phrases, which
+model the process whereby these henceforth illustrious peasant shoes
+slowly recreate about themselves the whole missing object-world which
+was once their lived context. ‘In them,’ says Heidegger, ‘there vibrates
+the silent call of the earth, its quiet gift of ripening corn and its
+enigmatic self-refusal in the fallow desolation of the wintry field.’ ‘This
+equipment,’ he goes on, ‘belongs to the earth and it is protected in the
+world of the peasant woman . . . Van Gogh’s painting is the disclosure
+of what the equipment, the pair of peasant shoes, is in truth . . . This
+entity emerges into the unconcealment of its being’, by way of the
+mediation of the work of art, which draws the whole absent world and
+earth into revelation around itself, along with the heavy tread of the
+peasant woman, the loneliness of the field path, the hut in the clearing,
+the worn and broken instruments of labour in the furrows and at the
+hearth. Heidegger’s account needs to be completed by insistence on the
+renewed materiality of the work, on the transformation of one form of
+materiality—the earth itself and its paths and physical objects—into that
+other materiality of oil paint affirmed and foregrounded in its own right
+and for its own visual pleasures; but has nonetheless a satisfying
+plausibility.
+‘Diamond Dust Shoes’
+
+At any rate, both of these readings may be described as hermeneutical, in
+the sense in which the work in its inert, objectal form, is taken as a clue
+or a symptom for some vaster reality which replaces it as its ultimate
+truth. Now we need to look at some shoes of a different kind, and it is
+pleasant to be able to draw for such an image on the recent work of the
+central figure in contemporary visual art. Andy Warhol’s Diamond Dust
+Shoes evidently no longer speaks to us with any of the immediacy of
+Van Gogh’s footgear: indeed, I am tempted to say that it does not
+really speak to us at all. Nothing in this painting organizes even a
+minimal place for the viewer, who confronts it at the turning of a
+museum corridor or gallery with all the contingency of some inexplicable natural object. On the level of the content, we have to do with
+what are now far more clearly fetishes, both in the Freudian and in the
+59
+
+Marxian sense (Derrida remarks, somewhere, about the Heideggerian
+Paar Bauernschuhe, that the Van Gogh footgear are a heterosexual pair,
+which allows neither for perversion nor for fetishization). Here,
+however, we have a random collection of dead objects, hanging
+together on the canvas like so many turnips, as shorn of their earlier
+life-world as the pile of shoes left over from Auschwitz, or the
+remainders and tokens of some incomprehensible and tragic fire in a
+packed dancehall. There is therefore in Warhol no way to complete the
+hermeneutic gesture, and to restore to these oddments that whole larger
+lived context of the dance hall or the ball, the world of jetset fashion or
+of glamour magazines. Yet this is even more paradoxical in the light of
+biographical information: Warhol began his artistic career as a commercial illustrator for shoe fashions and a designer of display windows in
+which various pumps and slippers figured prominently. Indeed, one is
+tempted to raise here—far too prematurely—one of the central issues
+about postmodernism itself and its possible political dimensions: Andy
+Warhol’s work in fact turns centrally around commodification, and the
+great billboard images of the Coca-cola bottle or the Campbell’s Soup
+Can, which explicitly foreground the commodity fetishism of a transition to late capital, ought to be powerful and critical political statements.
+If they are not that, then one would surely want to know why, and one
+would want to begin to wonder a little more seriously about the
+possibilities of political or critical art in the postmodern period of late
+capital.
+But there are some other significant differences between the high
+modernist and the postmodernist moment, between the shoes of Van
+Gogh and the shoes of Andy Warhol, on which we must now very
+briefly dwell. The first and most evident is the emergence of a new kind
+of flatness or depthlessness, a new kind of superficiality in the most
+literal sense—perhaps the supreme formal feature of all the postmodernisms to which we will have occasion to return in a number of other
+contexts.
+Then we must surely come to terms with the role of photography and
+the photographic/negative in contemporary art of this kind: and it is
+this indeed which confers its deathly quality on the Warhol image,
+whose glacéd x-ray elegance mortifies the reified eye of the viewer in a
+way that would seem to have nothing to do with death or the death
+obsession or the death anxiety on the level of content. It is indeed as
+though we had here to do with the inversion of Van Gogh’s Utopian
+gesture: in the earlier work, a stricken world is by some Nietzschean
+fiat and act of the will transformed into the stridency of Utopian colour.
+Here, on the contrary, it is as though the external and coloured surface
+of things—debased and contaminated in advance by their assimilation
+to glossy advertising images—has been stripped away to reveal the
+deathly black-and-white substratum of the photographic negative which
+subtends them. Although this kind of death of the world of appearance
+becomes thematized in certain of Warhol’s pieces—most notably, the
+traffic accidents or the electric chair series—this is not, I think, a matter
+of content any longer but of some more fundamental mutation both in
+the object world itself—now become a set of texts or simulacra—and in
+the disposition of the subject.
+60
+
+The Waning of Affect
+
+All of which brings me to the third feature I had in mind to develop
+here briefly, namely what I will call the waning of affect in postmodern
+culture. Of course, it would be inaccurate to suggest that all affect, all
+feeling or emotion, all subjectivity, has vanished from the newer image.
+Indeed, there is a kind of return of the repressed in Diamond Dust Shoes,
+a strange compensatory decorative exhilaration, explicitly designated by
+the title itself although perhaps more difficult to observe in the
+reproduction. This is the glitter of gold dust, the spangling of gilt sand,
+which seals the surface of the painting and yet continues to glint at us.
+Think, however, of Rimbaud’s magical flowers ‘that look back at you’,
+or of the august premonitory eye-flashes of Rilke’s archaic Greek torso
+which warn the bourgeois subject to change his life: nothing of that
+sort here, in the gratuitous frivolity of this final decorative overlay.
+The waning of affect is, however, perhaps best initially approached by
+way of the human figure, and it is obvious that what we have said
+about the commodification of objects holds as strongly for Warhol’s
+human subjects, stars—like Marilyn Monroe—who are themselves
+commodified and transformed into their own images. And here too a
+certain brutal return to the older period of high modernism offers a
+dramatic shorthand parable of the transformation in question. Edvard
+Munch’s painting The Scream is of course a canonical expression of the
+great modernist thematics of alienation, anomie, solitude and social
+fragmentation and isolation, a virtually programmatic emblem of what
+used to be called the age of anxiety. It will here be read not merely as an
+embodiment of the expression of that kind of affect, but even more as
+a virtual deconstruction of the very aesthetic of expression itself, which
+seems to have dominated much of what we call high modernism, but to
+have vanished away—for both practical and theoretical reasons—in the
+world of the postmodern. The very concept of expression presupposes
+indeed some separation within the subject, and along with that a whole
+metaphysics of the inside and the outside, of the wordless pain within
+the monad and the moment in which, often cathartically, that ‘emotion’
+is then projected out and externalized, as gesture or cry, as desperate
+communication and the outward dramatization of inward feeling. And
+this is perhaps the moment to say something about contemporary
+theory, which has among other things been committed to the mission
+of criticizing and discrediting this very hermeneutic model of the inside
+and the outside and of stigmatizing such models as ideological and
+metaphysical. But what is today called contemporary theory—or better
+still, theoretical discourse—is also, I would want to argue, itself very
+precisely a postmodernist phenomenon. It would therefore be inconsistent to defend the truth of its theoretical insights in a situation in
+which the very concept of ‘truth’ itself is part of the metaphysical
+baggage which poststructuralism seeks to abandon. What we can at
+least suggest is that the poststructuralist critique of the hermeneutic, of
+what I will shortly call the depth model, is useful for us as a very
+significant symptom of the very postmodernist culture which is our
+subject here.
+Overhastily, we can say that besides the hermeneutic model of inside
+61
+
+and outside which Munch’s painting develops, there are at least four
+other fundamental depth models which have generally been repudiated
+in contemporary theory: the dialectical one of essence and appearance
+(along with a whole range of concepts of ideology or false consciousness
+which tend to accompany it); the Freudian model of latent and manifest,
+or of repression (which is of course the target of Michel Foucault’s
+programmatic and symptomatic pamphlet La Volonté de savoir); the
+existential model of authenticity and inauthenticity, whose heroic or
+tragic thematics are closely related to that other great opposition
+between alienation and disalienation, itself equally a casualty of the
+poststructural or postmodern period; and finally, latest in time, the
+great semiotic opposition between signifier and signified, which was
+itself rapidly unravelled and deconstructed during its brief heyday in
+the 1960s and 70s. What replaces these various depth models is for the
+most part a conception of practices, discourses and textual play, whose
+new syntagmatic structures we will examine later on: suffice it merely to
+observe that here too depth is replaced by surface, or by multiple
+surfaces (what is often called intertextuality is in that sense no longer a
+matter of depth).
+Nor is this depthlessness merely metaphorical: it can be experienced
+physically and literally by anyone who, mounting what used to be
+Raymond Chandler’s Beacon Hill from the great Chicano markets on
+Broadway and 4th St. in downtown Los Angeles, suddenly confronts
+the great free-standing wall of the Crocker Bank Center (Skidmore,
+Owings and Merrill)—a surface which seems to be unsupported by any
+volume, or whose putative volume (rectangular, trapezoidal?) is
+ocularly quite undecidable. This great sheet of windows, with its
+gravity-defying two-dimensionality, momentarily transforms the solid
+ground on which we climb into the contents of a stereopticon,
+pasteboard shapes profiling themselves here and there around us. From
+all sides, the visual effect is the same: as fateful as the great monolith in
+Kubrick’s 2001 which confronts its viewers like an enigmatic destiny, a
+call to evolutionary mutation. If this new multinational downtown (to
+which we will return later in another context) effectively abolished the
+older ruined city fabric which it violently replaced, cannot something
+similar be said about the way in which this strange new surface in its
+own peremptory way renders our older systems of perception of the
+city somehow archaic and aimless, without offering another in their
+place?
+Euphoria and Self-Annihilation
+
+Returning now for one last moment to Munch’s painting, it seems
+evident that The Scream subtly but elaborately deconstructs its own
+aesthetic of expression, all the while remaining imprisoned within it. Its
+gestural content already underscores its own failure, since the realm of
+the sonorous, the cry, the raw vibrations of the human throat, are
+incompatible with its medium (something underscored within the work
+by the homunculus’ lack of ears). Yet the absent scream returns more
+closely towards that even more absent experience of atrocious solitude
+and anxiety which the scream was itself to ‘express’. Such loops inscribe
+themselves on the painted surface in the form of those great concentric
+62
+
+circles in which sonorous vibration becomes ultimately visible, as on
+the surface of a sheet of water—in an infinite regress which fans out
+from the sufferer to become the very geography of a universe in which
+pain itself now speaks and vibrates through the material sunset and the
+landscape. The visible world now becomes the wall of the monad on
+which this ‘scream running through nature’ (Munch’s words) is
+recorded and transcribed: one thinks of that character of Lautréamont
+who, growing up inside a sealed and silent membrane, on sight of the
+monstrousness of the deity, ruptures it with his own scream and thereby
+rejoins the world of sound and suffering.
+All of which suggests some more general historical hypothesis: namely,
+that concepts such as anxiety and alienation (and the experiences to
+which they correspond, as in The Scream) are no longer appropriate in
+the world of the postmodern. The great Warhol figures—Marilyn
+herself, or Edie Sedgewick—the notorious burn-out and self-destruction cases of the ending 1960s, and the great dominant experiences of
+drugs and schizophrenia—these would seem to have little enough in
+common anymore, either with the hysterics and neurotics of Freud’s
+own day, or with those canonical experiences of radical isolation and
+solitude, anomie, private revolt, Van Gogh-type madness, which
+dominated the period of high modernism. This shift in the dynamics of
+cultural pathology can be characterized as one in which the alienation
+of the subject is displaced by the fragmentation of the subject.
+Such terms inevitably recall one of the more fashionable themes in
+contemporary theory—that of the ‘death’ of the subject itself ! the
+end of the autonomous bourgeois monad or ego or individual—and the
+accompanying stress, whether as some new moral ideal or as empirical
+description, on the decentring of that formerly centred subject or psyche.
+(Of the two possible formulations of this notion—the historicist one,
+that a once-existing centred subject, in the period of classical capitalism
+and the nuclear family, has today in the world of organizational
+bureaucracy dissolved; and the more radical poststructuralist position
+for which such a subject never existed in the first place but constituted
+something like an ideological mirage—I obviously incline towards the
+former; the latter must in any case take into account something like a
+‘reality of the appearance’.)
+We must add that the problem of expression is itself closely linked to
+some conception of the subject as a monad-like container, within which
+things are felt which are then expressed by projection outwards. What
+we must now stress, however, is the degree to which the high-modernist
+conception of a unique style, along with the accompanying collective
+ideals of an artistic or political vanguard or avant-garde, themselves stand
+or fall along with that older notion (or experience) of the so-called
+centred subject.
+Here too Munch’s painting stands as a complex reflexion on this
+complicated situation: it shows us that expression requires the category
+of the individual monad, but it also shows us the heavy price to be paid
+for that precondition, dramatizing the unhappy paradox that when you
+constitute your individual subjectivity as a self-sufficient field and a
+63
+
+closed realm in its own right, you thereby also shut yourself off from
+everything else and condemn yourself to the windless solitude of the
+monad, buried alive and condemned to a prison-cell without egress.
+Postmodernism will presumably signal the end of this dilemma, which
+it replaces with a new one. The end of the bourgeois ego or monad no
+doubt brings with it the end of the psychopathologies of that ego as
+well—what I have generally here been calling the waning of affect. But
+it means the end of much more—the end for example of style, in the
+sense of the unique and the personal, the end of the distinctive
+individual brushstroke (as symbolized by the emergent primacy of
+mechanical reproduction). As for expression and feelings or emotions,
+the liberation, in contemporary society, from the older anomie of the
+centred subject may also mean, not merely a liberation from anxiety,
+but a liberation from every other kind of feeling as well, since there is
+no longer a self present to do the feeling. This is not to say that the
+cultural products of the postmodern era are utterly devoid of feeling,
+but rather that such feelings—which it may be better and more accurate
+to call ‘intensities’—are now free-floating and impersonal, and tend to
+be dominated by a peculiar kind of euphoria to which I will want to
+return at the end of this essay.
+The waning of affect, however, might also have been characterized, in
+the narrower context of literary criticism, as the waning of the great
+high-modernist thematics of time and temporality, the elegiac mysteries
+of durée and of memory (something to be understood fully as a category
+of literary criticism associated as much with high modernism as with
+the works themselves). We have often been told, however, that we now
+inhabit the synchronic rather than the diachronic, and I think it is at
+least empirically arguable that our daily life, our psychic experience, our
+cultural languages, are today dominated by categories of space rather
+than by categories of time, as in the preceding period of high modernism
+proper.
+
+II. The Postmodern and the Past
+Pastiche Eclipses Parody
+
+The disappearance of the individual subject, along with its formal
+consequence, the increasing unavailability of the personal style, engender
+the well-nigh universal practice today of what may be called pastiche.
+This concept, which we owe to Thomas Mann (in Doktor Faustus), who
+owed it in turn to Adorno’s great work on the two paths of advanced
+musical experimentation (Schoenberg’s innovative planification, Stravinsky’s irrational eclecticism), is to be sharply distinguished from the
+more readily received idea of parody.
+This last found, to be sure, a fertile area in the idiosyncracies of the
+moderns and their ‘inimitable’ styles: the Faulknerian long sentence
+with its breathless gerundives, Lawrentian nature imagery punctuated
+by testy colloquialism, Wallace Stevens’ inveterate hypostasis of nonsubstantive parts of speech (‘the intricate evasions of as’), the fateful,
+64
+
+but finally predictable, swoops in Mahler from high orchestral pathos
+into village accordeon sentiment, Heidegger’s meditative-solemn practice of the false etymology as a mode of ‘proof’ . . . All these strike one
+as somehow ‘characteristic’, insofar as they ostentatiously deviate from
+a norm which then reasserts itself, in a not necessarily unfriendly way,
+by a systematic mimicry of their deliberate eccentricities.
+Yet, in the dialectical leap from quantity to quality, the explosion of
+modern literature into a host of distinct private styles and mannerisms
+has been followed by a linguistic fragmentation of social life itself to the
+point where the norm itself is eclipsed: reduced to a neutral and reified
+media speech (far enough from the Utopian aspirations of the inventors
+of Esperanto or Basic English), which itself then becomes but one more
+idiolect among many. Modernist styles thereby become postmodernist
+codes: and that the stupendous proliferation of social codes today into
+professional and disciplinary jargons, but also into the badges of
+affirmation of ethnic, gender, race, religious, and class-fraction adhesion,
+is also a political phenomenon, the problem of micropolitics sufficiently
+demonstrates. If the ideas of a ruling class were once the dominant (or
+hegemonic) ideology of bourgeois society, the advanced capitalist
+countries today are now a field of stylistic and discursive heterogeneity
+without a norm. Faceless masters continue to inflect the economic
+strategies which constrain our existences, but no longer need to impose
+their speech (or are henceforth unable to); and the postliteracy of the
+late capitalist world reflects, not only the absence of any great collective
+project, but also the unavailability of the older national language itself.
+In this situation, parody finds itself without a vocation; it has lived, and
+that strange new thing pastiche slowly comes to take its place. Pastiche
+is, like parody, the imitation of a peculiar mask, speech in a dead
+language: but it is a neutral practice of such mimicry, without any of
+parody’s ulterior motives, amputated of the satiric impulse, devoid of
+laughter and of any conviction that alongside the abnormal tongue you
+have momentarily borrowed, some healthy linguistic normality still
+exists. Pastiche is thus blank parody, a statue with blind eyeballs: it is to
+parody what that other interesting and historically original modern
+thing, the practice of a kind of blank irony, is to what Wayne Booth
+calls the ‘stable ironies’ of the 18th century.
+It would therefore begin to seem that Adorno’s prophetic diagnosis has
+been realized, albeit in a negative way: not Schoenberg (the sterility of
+whose achieved system he already glimpsed) but Stravinsky is the true
+precursor of the postmodern cultural production. For with the collapse
+of the high-modernist ideology of style—what is as unique and
+unmistakable as your own fingerprints, as incomparable as your own
+body (the very source, for an early Roland Barthes, of stylistic invention
+and innovation)—the producers of culture have nowhere to turn but to
+the past: the imitation of dead styles, speech through all the masks and
+voices stored up in the imaginary museum of a now global culture.
+‘Historicism’ Effaces History
+
+This situation evidently determines what the architecture historians call
+‘historicism’, namely the random cannibalization of all the styles of the
+65
+
+past, the play of random stylistic allusion, and in general what Henri
+Lefebvre has called the increasing primacy of the ‘neo’. This omnipresence of pastiche is, however, not incompatible with a certain humour
+(nor is it innocent of all passion) or at least with addiction—with a
+whole historically original consumers’ appetite for a world transformed
+into sheer images of itself and for pseudo-events and ‘spectacles’ (the
+term of the Situationists). It is for such objects that we may reserve
+Plato’s conception of the ‘simulacrum’—the identical copy for which
+no original has ever existed. Appropriately enough, the culture of the
+simulacrum comes to life in a society where exchange-value has been
+generalized to the point at which the very memory of use-value is
+effaced, a society of which Guy Debord has observed, in an extraordinary phrase, that in it ‘the image has become the final form of
+commodity reification’ (The Society of the Spectacle).
+The new spatial logic of the simulacrum can now be expected to have
+a momentous effect on what used to be historical time.
+The past is thereby itself modified: what was once, in the historical
+novel as Lukács defines it, the organic genealogy of the bourgeois
+collective project—what is still, for the redemptive historiography of
+an E. P. Thompson or of American ‘oral history’, for the resurrection
+of the dead of anonymous and silenced generations, the retrospective
+dimension indispensable to any vital reorientation of our collective
+future—has meanwhile itself become a vast collection of images, a
+multitudinous photographic simulacrum. Guy Debord’s powerful slogan is now even more apt for the ‘prehistory’ of a society bereft of all
+historicity, whose own putative past is little more than a set of dusty
+spectacles. In faithful conformity to poststructuralist linguistic theory,
+the past as ‘referent’ finds itself gradually bracketed, and then effaced
+altogether, leaving us with nothing but texts.
+The Nostalgia Mode
+
+Yet it should not be thought that this process is accompanied by
+indifference: on the contrary, the remarkable current intensification of
+an addiction to the photographic image is itself a tangible symptom of
+an omnipresent, omnivorous and well-nigh libidinal historicism. The
+architects use this (exceedingly polysemous) word for the complacent
+eclecticism of postmodern architecture, which randomly and without
+principle but with gusto cannibalizes all the architectural styles of the
+past and combines them in overstimulating ensembles. Nostalgia does
+not strike one as an altogether satisfactory word for such fascination
+(particularly when one thinks of the pain of a properly modernist
+nostalgia with a past beyond all but aesthetic retrieval), yet it directs
+our attention to what is a culturally far more generalized manifestation
+of the process in commercial art and taste, namely the so-called
+‘nostalgia film’ (or what the French call ‘la mode rétro’).
+These restructure the whole issue of pastiche and project it onto a
+collective and social level, where the desperate attempt to appropriate
+a missing past is now refracted through the iron law of fashion change
+and the emergent ideology of the ‘generation’. American Graffiti (1973)
+66
+
+set out to recapture, as so many films have attempted since, the
+henceforth mesmerizing lost reality of the Eisenhower era: and one
+tends to feel that for Americans at least, the 1950s remain the privileged
+lost object of desire—not merely the stability and prosperity of a pax
+Americana, but also the first naive innocence of the countercultural
+impulses of early rock-and-roll and youth gangs (Coppola’s Rumble Fish
+will then be the contemporary dirge that laments their passing, itself,
+however, still contradictorily filmed in genuine ‘nostalgia film’ style).
+With this initial breakthrough, other generational periods open up for
+aesthetic colonization: as witness the stylistic recuperation of the
+American and the Italian 1930s, in Polanski’s Chinatown and Bertolluci’s
+Il Conformista respectively. What is more interesting, and more problematical, are the ultimate attempts, through this new discourse, to lay siege
+either to our own present and immediate past, or to a more distant
+history that escapes individual existential memory.
+Faced with these ultimate objects—our social, historical and existential
+present, and the past as ‘referent’—the incompatibility of a postmodernist ‘nostalgia’ art language with genuine historicity becomes dramatically
+apparent. The contraction propels this model, however, into complex
+and interesting new formal inventiveness: it being understood that the
+nostalgia film was never a matter of some old-fashioned ‘representation’
+of historical content, but approached the ‘past’ through stylistic connotation, conveying ‘pastness’ by the glossy qualities of the image, and
+‘1930s-ness’ or ‘1950s-ness’ by the attributes of fashion (therein following the prescription of the Barthes of Mythologies, who saw connotation
+as the purveying of imaginary and stereotypical idealities, ‘Sinité’, for
+example, as some Disney-EPCOT ‘concept’ of China).
+The insensible colonization of the present by the nostalgia mode can be
+observed in Lawrence Kazdan’s elegant film, Body Heat, a distant
+‘affluent society’ remake of James M. Cain’s The Postman Always Rings
+Twice, set in a contemporary Florida small town not far from Miami.
+The word ‘remake’ is, however, anachronistic to the degree to which
+our awareness of the pre-existence of other versions, previous films of
+the novel as well as the novel itself, is now a constitutive and essential
+part of the film’s structure: we are now, in other words, in ‘intertextuality’ as a deliberate, built-in feature of the aesthetic effect, and as the
+operator of a new connotation of ‘pastness’ and pseudo-historical depth,
+in which the history of aesthetic styles displaces ‘real’ history.
+Yet from the outset a whole battery of aesthetic signs begin to distance
+the officially contemporary image from us in time: the art deco scripting
+of the credits, for example, serves at once to programme the spectator
+for the appropriate ‘nostalgia’ mode of reception (art deco quotation
+has much the same function in contemporary architecture, as in
+Toronto’s remarkable Eaton Centre). Meanwhile, a somewhat different
+play of connotations is activated by complex (but purely formal)
+allusions to the institutions of the star system itself. The protagonist,
+William Hurt, is one of a new generation of film ‘stars’ whose status is
+markedly distinct from that of the preceding generation of male
+superstars, such as Steve McQueen or Jack Nicholson (or even, more
+distantly, Brando), let alone of earlier moments in the evolution of the
+67
+
+institutions of the star. The immediately preceding generation projected
+its various roles through, and by way of, well-known ‘off-screen’
+personalities, who often connoted rebellion and non-conformism. The
+latest generation of starring actors continues to assure the conventional
+functions of stardom (most notably, sexuality) but in the utter absence
+of ‘personality’ in the older sense, and with something of the anonymity
+of character acting (which in actors like Hurt reaches virtuouso
+proportions, yet of a very different kind from the virtuosity of the older
+Brando or Olivier). This ‘death of the subject’ in the institution of the
+star, however, opens up the possibility of a play of historical allusions
+to much older roles—in this case to those associated with Clark Gable—
+so that the very style of the acting can now also serve as a ‘connotator’
+of the past.
+Finally, the setting has been strategically framed, with great ingenuity,
+to eschew most of the signals that normally convey the contemporaneity
+of the United States in its multinational era: the small-town setting
+allows the camera to elude the high-rise landscape of the 1970s and 80s
+(even though a key episode in the narrative involves the fatal destruction
+of older buildings by land speculators); while the object world of the
+present-day—artifacts and appliances, even automobiles, whose styling
+would at once serve to date the image—is elaborately edited out.
+Everything in the film, therefore, conspires to blur its official contemporaneity and to make it possible for you to receive the narrative as
+though it were set in some eternal Thirties, beyond real historical time.
+The approach to the present by way of the art language of the
+simulacrum, or of the pastiche of the stereotypical past, endows present
+reality and the openness of present history with the spell and distance of
+a glossy mirage. But this mesmerizing new aesthetic mode itself emerged
+as an elaborated symptom of the waning of our historicity, of our lived
+possibility of experiencing history in some active way: it cannot
+therefore be said to produce this strange occultation of the present by
+its own formal power, but merely to demonstrate, through these inner
+contradictions, the enormity of a situation in which we seem increasingly incapable of fashioning representations of our own current
+experience.
+The Fate of ‘Real History’
+
+As for ‘real history’ itself—the traditional object, however it may be
+defined, of what used to be the historical novel—it will be more
+revealing now to turn back to that older form and medium and to read
+its postmodern fate in the work of one of the few serious and innovative
+Left novelists at work in the United States today, whose books are
+nourished with history in the more traditional sense, and seem, so far,
+to stake out successive generational moments in the ‘epic’ of American
+history. E. L. Doctorow’s Ragtime gives itself officially as a panorama
+of the first two decades of the century; his most recent novel, Loon
+Lake, addresses the Thirties and the Great Depression; while The Book
+of Daniel holds up before us, in painful juxtaposition, the two great
+moments of the Old Left and the New Left, of Thirties and Forties
+Communism and the radicalism of the 1960s (even his early Western
+may be said to fit into this scheme and to designate in a less articulated
+68
+
+and formally self-conscious way the end of the frontier of the late
+nineteenth century).
+The Book of Daniel is not the only one of these three major historical
+novels to establish an explicit narrative link between the reader’s and
+the writer’s present and the older historical reality which is the subject
+of the work; the astonishing last page of Loon Lake, which I will not
+disclose, also does this in a very different way; while it is a matter of
+some interest to note that the first sentence of the first version of
+Ragtime positions us explicitly in our own present, in the novelist’s
+house in New Rochelle, New York, which will then at once become the
+scene of its own (imaginary) past in the 1900s. This detail has been
+suppressed from the published text, symbolically cutting its moorings
+and freeing the novel to float in some new world of past historical time
+whose relationship to us is problematical indeed. The authenticity of
+the gesture, however, may be measured by the evident existential fact
+of life that there no longer does seem to be any organic relationship
+between the American history we learn from the schoolbooks and the
+lived experience of the current multinational, high-rise, stagflated city
+of the newspapers and of our own daily life.
+A crisis in historicity, however, inscribes itself symptomally in several
+other curious formal features within this text. Its official subject is the
+transition from a pre-World-War I radical and working-class politics
+(the great strikes) to the technological invention and new commodity
+production of the 1920s (the rise of Hollywood and of the image as
+commodity): the interpolated version of Kleist’s Michael Kohlhaas, the
+strange tragic episode of the Black protagonist’s revolt, may be thought
+to be a moment related to this process. My point, however, is not some
+hypothesis as to the thematic coherence of this decentred narrative; but
+rather just the opposite, namely the way in which the kind of reading
+this novel imposes makes it virtually impossible for us to reach and to
+thematize those official ‘subjects’ which float above the text but cannot
+be integrated into our reading of the sentences. In that sense, not only
+does the novel resist interpretation, it is organized systematically and
+formally to short-circuit an older type of social and historical interpretation which it perpetually holds out and withdraws. When we remember
+that the theoretical critique and repudiation of interpretation as such is
+a fundamental component of poststructuralist theory, it is difficult not
+to conclude that Doctorow has somehow deliberately built this very
+tension, this very contradiction, into the flow of his sentences.
+As is well known, the book is crowded with real historical figures—
+from Teddy Roosevelt to Emma Goldman, from Harry K. Thaw and
+Sandford White to J. Pierpont Morgan and Henry Ford, not to speak
+of the more central role of Houdini—who interact with a fictive family,
+simply designated as Father, Mother, Older Brother, and so forth. All
+historical novels, beginning with Scott himself, no doubt in one way or
+another involve a mobilization of previous historical knowledge,
+generally acquired through the schoolbook history manuals devised for
+whatever legitimizing purpose by this or that national tradition—
+thereafter instituting a narrative dialectic between what we already
+‘know’ about The Pretender, say, and what he is then seen to be
+69
+
+concretely in the pages of the novel. But Doctorow’s procedure seems
+much more extreme than this; and I would argue that the designation
+of both types of characters—historical names or capitalized family
+roles—operates powerfully and systematically to reify all these characters and to make it impossible for us to receive their representation
+without the prior interception of already-acquired knowledge or doxa—
+something which lends the text an extraordinary sense of déjà-vu and a
+peculiar familiarity one is tempted to associate with Freud’s ‘return of
+the repressed’ in ‘The Uncanny’, rather than with any solid historiographic formation on the reader’s part.
+Loss of the Radical Past
+
+Meanwhile, the sentences in which all this is happening have their own
+specificity, which will allow us a little more concretely to distinguish
+the moderns’ elaboration of a personal style from this new kind of
+linguistic innovation, which is no longer personal at all but has its
+family kinship rather with what Barthes long ago called ‘white writing’.
+In this particular novel, Doctorow has imposed upon himself a rigorous
+principle of selection in which only simple declarative sentences
+(predominantly mobilized by the verb ‘to be’) are received. The effect
+is, however, not really one of the condescending simplification and
+symbolic carefulness of children’s literature, but rather something more
+disturbing, the sense of some profound subterranean violence done to
+American English which cannot, however, be detected empirically in
+any of the perfectly grammatical sentences with which this work is
+formed. Yet other more visible technical ‘innovations’ may supply a
+clue to what is happening in the language of Ragtime: it is for example
+well-known that the source of many of the characteristic effects of
+Camus’ novel ’Etranger can be traced back to that author’s wilful
+decision to substitute, throughout, the French tense of the ‘passé
+composé’ for the other past tenses more normally employed in narration
+in that language. I will suggest that it is as if something of that sort
+were at work here (without committing myself further to what is
+obviously an outrageous leap): it is, I say, as though Doctorow had set
+out systematically to produce the effect or the equivalent, in his
+language, of a verbal past tense we do not possess in English, namely
+the French preterite (or passé simple), whose ‘perfective’ movement, as
+Émile Benveniste taught us, serves to separate events from the present
+of enunciation and to transform the stream of time and action into so
+many finished, complete, and isolated punctual event-objects which find
+themselves sundered from any present situation (even that of the act of
+storytelling or enunciation).
+E. L. Doctorow is the epic poet of the disappearance of the American
+radical past, of the suppression of older traditions and moments of the
+American radical tradition: no one with left sympathies can read these
+splendid novels without a poignant distress which is an authentic way
+of confronting our own current political dilemmas in the present. What
+is culturally interesting, however, is that he has had to convey this great
+theme formally (since the waning of the content is very precisely his
+subject), and, more than that, has had to elaborate his work by way of
+that very cultural logic of the postmodern which is itself the mark and
+70
+
+symptom of his dilemma. Loon Lake much more obviously deploys the
+strategies of the pastiche (most notably in its reinvention of Dos
+Passos); but Ragtime remains the most peculiar and stunning monument
+to the aesthetic situation engendered by the disappearance of the
+historical referent. This historical novel can no longer set out to
+represent the historical past; it can only ‘represent’ our ideas and
+stereotypes about that past (which thereby at once becomes ‘pop
+history’). Cultural production is thereby driven back inside a mental
+space which is no longer that of the old monadic subject, but rather
+that of some degraded collective ‘objective spirit’: it can no longer gaze
+directly on some putative real world, at some reconstruction of a past
+history which was once itself a present; rather, as in Plato’s cave, it
+must trace our mental images of that past upon its confining walls. If
+there is any realism left here, therefore, it is a ‘realism’ which is meant
+to derive from the shock of grasping that confinement, and of slowly
+becoming aware of a new and original historical situation in which we
+are condemned to seek History by way of our own pop images and
+simulacra of that history, which itself remains forever out of reach.
+
+III. The Breakdown of the Signifying Chain
+The crisis in historicity now dictates a return, in a new way, to the
+question of temporal organization in general in the postmodern force
+field, and indeed, to the problem of the form that time, temporality and
+the syntagmatic will be able to take in a culture increasingly dominated
+by space and spatial logic. If, indeed, the subject has lost its capacity
+actively to extend its pro-tensions and re-tensions across the temporal
+manifold, and to organize its past and future into coherent experience,
+it becomes difficult enough to see how the cultural productions of such
+a subject could result in anything but ‘heaps of fragments’ and in a
+practice of the randomly heterogeneous and fragmentary and the
+aleatory. These are, however, very precisely some of the privileged
+terms in which postmodernist cultural production has been analysed
+(and even defended, by its own apologists). Yet they are still privative
+features; the more substantive formulations bear such names as textuality, écriture, or schizophrenic writing, and it is to these that we must
+now briefly turn.
+I have found Lacan’s account of schizophrenia useful here, not because
+I have any way of knowing whether it has clinical accuracy, but chiefly
+because—as description rather than diagnosis—it seems to me to offer
+a suggestive aesthetic model. (I am obviously very far from thinking
+that any of the most significant postmodernist artists—Cage, Ashbery,
+Sollers, Robert Wilson, Ishmael Reed, Michael Snow, Warhol or even
+Beckett himself—are schizophrenics in any clinical sense.) Nor is the
+point some culture-and-personality diagnosis of our society and its art,
+as in culture critiques of the type of Christopher Lasch’s influential The
+Culture of Narcissism, from which I am concerned radically to distance
+the spirit and the methodology of the present remarks: there are, one
+would think, far more damaging things to be said about our social
+system than are available through the use of psychological categories.
+Very briefly, Lacan describes schizophrenia as a breakdown in the
+71
+
+signifying chain, that is, the interlocking syntagmatic series of signifiers
+which constitutes an utterance or a meaning. I must omit the familial or
+more orthodox psychoanalytic background to this situation, which
+Lacan transcodes into language by describing the Oedipal rivalry in
+terms, not so much of the biological individual who is your rival for
+the mother’s attention, but rather of what he calls the Name-of-theFather, paternal authority now considered as a linguistic function. His
+conception of the signifying chain essentially presupposes one of the
+basic principles (and one of the great discoveries) of Saussurean
+structuralism, namely the proposition that meaning is not a one-to-one
+relationship between signifier and signified, between the materiality of
+language, between a word or a name, and its referent or concept.
+Meaning on the new view is generated by the movement from Signifier
+to Signifier: what we generally call the Signified—the meaning or
+conceptual content of an utterance—is now rather to be seen as a
+meaning-effect, as that objective mirage of signification generated and
+projected by the relationship of Signifiers among each other. When that
+relationship breaks down, when the links of the signifying chain snap,
+then we have schizophrenia in the form of a rubble of distinct and
+unrelated signifiers. The connection between this kind of linguistic
+malfunction and the psyche of the schizophrenic may then be grasped
+by way of a two-fold proposition: first, that personal identity is itself
+the effect of a certain temporal unification of past and future with the
+present before me; and second, that such active temporal unification is
+itself a function of language, or better still of the sentence, as it moves
+along its hermeneutic circle through time. If we are unable to unify the
+past, present and future of the sentence, then we are similarly unable to
+unify the past, present and future of our own biographical experience
+or psychic life.
+With the breakdown of the signifying chain, therefore, the schizophrenic is reduced to an experience of pure material Signifiers, or in
+other words of a series of pure and unrelated presents in time. We will
+want to ask questions about the aesthetic or cultural results of such a
+situation in a moment; let us first see what it feels like: ‘I remember
+very well the day it happened. We were staying in the country and I
+had gone for a walk alone as I did now and then. Suddenly, as I was
+passing the school, I heard a German song; the children were having a
+singing lesson. I stopped to listen, and at that instant a strange feeling
+came over me, a feeling hard to analyse but akin to something I was to
+know too well later—a disturbing sense of unreality. It seemed to me
+that I no longer recognized the school, it had become as large as a
+barracks; the singing children were prisoners, compelled to sing. It was
+as though the school and the children’s song were set apart from the
+rest of the world. At the same time my eye encountered a field of wheat
+whose limits I could not see. The yellow vastness, dazzling in the sun,
+bound up with the song of the children imprisoned in the smooth stone
+school-barracks, filled me with such anxiety that I broke into sobs. I ran
+home to our garden and began to play “to make things seem as they
+usually were,” that is, to return to reality. It was the first appearance of
+those elements which were always present in later sensations of
+
+72
+
+unreality: illimitable vastness, brilliant light, and the gloss and smoothness of material things.’*
+In our present context, this experience suggests the following remarks:
+first, the breakdown of temporality suddenly releases this present of
+time from all the activities and the intentionalities that might focus it
+and make it a space of praxis; thereby isolated, that present suddenly
+engulfs the subject with undescribable vividness, a materiality of
+perception properly overwhelming, which effectively dramatizes the
+power of the material—or better still, the literal—Signifier in isolation.
+This present of the world or material signifier comes before the subject
+with heightened intensity, bearing a mysterious charge of affect, here
+described in the negative terms of anxiety and loss of reality, but which
+one could just as well imagine in the positive terms of euphoria, the
+high, the intoxicatory or hallucinogenic intensity.
+‘China’
+
+What will happen in textuality or schizophrenic art is strikingly
+illuminated by such clinical accounts, although in the cultural text, the
+isolated Signifier is no longer an enigmatic state of the world or an
+incomprehensible yet mesmerizing fragment of language, but rather
+something closer to a sentence in free-standing isolation. Think, for
+example, of the experience of John Cage’s music, in which a cluster of
+material sounds (on the prepared piano for example) is followed by a
+silence so intolerable that you cannot imagine another sonorous chord
+coming into existence, and cannot imagine remembering the previous
+one well enough to make any connection with it if it does. Some of
+Beckett’s narratives are also of this order, most notably Watt, where a
+primacy of the present sentence in time ruthlessly disintegrates the
+narrative fabric that attempts to reform around it. My example will,
+however, be a less sombre one, a text by a younger San Francisco poet
+whose group or school—so-called Language Poetry or the New
+Sentence—seems to have adopted schizophrenic fragmentation as its
+fundamental aesthetic.
+China
+We live on the third world from the sun. Number three. Nobody tells
+us what to do.
+The people who taught us to count were being very kind.
+It’s always time to leave.
+If it rains, you either have your umbrella or you don’t.
+The wind blows your hat off.
+The sun rises also.
+I’d rather the stars didn’t describe us to each other; I’d rather we do it
+for ourselves.
+Run in front of your shadow.
+A sister who points to the sky at least once a decade is a good sister.
+The landscape is motorized.
+The train takes you where it goes.
+Bridges among water.
+* Marguerite Séchehaye, Autobiography of a Schizophrenic Girl, trans. by G. Rubin-Rabson, New York
+1968, p.19.
+
+73
+
+Folks straggling along vast stretches of concrete, heading into the
+plane.
+Don’t forget what your hat and shoes will look like when you are
+nowhere to be found.
+Even the words floating in air make blue shadows.
+If it tastes good we eat it.
+The leaves are falling. Point things out.
+Pick up the right things.
+Hey guess what? What? I’ve learned how to talk. Great.
+The person whose head was incomplete burst into tears.
+As it fell, what could the doll do? Nothing.
+Go to sleep.
+You look great in shorts. And the flag looks great too.
+Everyone enjoyed the explosions.
+Time to wake up.
+But better get used to dreams.
+Bob Perelman from Primer, This Press, Berkeley
+Many things could be said about this interesting exercise in discontinuities: not the least paradoxical is the reemergence here across these
+disjoined sentences of some more unified global meaning. Indeed,
+insofar as this is in some curious and secret way a political poem, it
+does seem to capture something of the excitement of the immense,
+unfinished social experiment of the New China—unparalleled in world
+history—the unexpected emergence, between the two super-powers, of
+‘number three’, the freshness of a whole new object world produced by
+human beings in some new control over their collective destiny, the
+signal event, above all, of a collectivity which has become a new ‘subject
+of history’ and which, after the long subjection of feudalism and
+imperialism, again speaks in its own voice, for itself as though for the
+first time.
+I mainly wanted to show, however, the way in which what I have been
+calling schizophrenic disjunction or écriture, when it becomes generalized as a cultural style, ceases to entertain a necessary relationship to the
+morbid content we associate with terms like schizophrenia, and becomes
+available for more joyous intensities, for precisely that euphoria which
+we saw displacing the older affects of anxiety and alienation.
+Consider, for example, Jean-Paul Sartre’s account of a similar tendency
+in Flaubert: ‘His sentence (Sartre tells us about Flaubert) closes in on
+the object, seizes it, immobilizes it, and breaks its back, wraps itself
+around it, changes into stone and petrifies its object along with itself. It
+is blind and deaf, bloodless, not a breath of life; a deep silence separates
+it from the sentence which follows; it falls into the void, eternally, and
+drags its prey down into that infinite fall. Any reality, once described,
+is struck off the inventory.’ (What is Literature?)
+Yet I am tempted to see this reading as a kind of optical illusion (or
+photographic enlargment) of an unwittingly genealogical type: in which
+certain latent or subordinate, properly postmodernist features of Flaubert’s style are anachronistically foregrounded. Yet it affords another
+74
+
+interesting lesson in periodization, and in the dialectical restructuring
+of cultural dominants and subordinates. For these features, in Flaubert,
+were symptoms and strategies in that whole posthumous life and
+resentment of praxis which is denounced (with increasing sympathy)
+throughout the three thousand pages of Sartre’s Family Idiot. When
+such features become themselves the cultural norm, they shed all such
+forms of negative affect and become available for other, more decorative
+uses.
+But we have thereby not fully exhausted the structural secrets of
+Perelman’s poem, which turns out to have little enough to do with that
+referent called China. The author has in fact related how, strolling
+through Chinatown, he came across a book of photographs whose
+idiogrammatic captions remained a dead letter to him (or perhaps one
+should say, a material signifier). The sentences of the poem in question
+are then Perelman’s own captions to those pictures, their referents
+another image, another absent text; and the unity of the poem is no
+longer to be found within its language, but outside itself, in the bound
+unity of another, absent book. There is here a striking parallel to the
+dynamics of so-called photorealism, which looked like a return to
+representation and figuration after the long hegemony of the aesthetics
+of abstraction, until it became clear that its objects were not to be found
+in the ‘real world’ either, but were themselves photographs of that real
+world, this last now transformed into images, of which the ‘realism’ of
+the photorealist painting is now the simulacrum.
+Collage and Radical Difference
+
+This account of schizophrenia and temporal organization might, however, have been formulated in a different way, which brings us back to
+Heidegger’s notion of a gap or rift, albeit in a fashion that would have
+horrified him. I would like, indeed, to characterize the postmodernist
+experience of form with what will seem, I hope, a paradoxical slogan:
+namely the proposition that ‘difference relates’. Our own recent criticism, from Macherey on, has been concerned to stress the heterogeneity
+and profound discontinuities of the work of art, no longer unified or
+organic, but now virtual grab-bag or lumber room of disjoined subsystems and random raw materials and impulses of all kinds. The former
+work of art, in other words, has now turned out to be a text, whose
+reading proceeds by differentiation rather than by unification. Theories
+of difference, however, have tended to stress disjunction to the point at
+which the materials of the text, including its words and sentences, tend
+to fall apart into random and inert passivity, into a set of elements
+which entertain purely external separations from one another.
+In the most interesting postmodernist works, however, one can detect
+a more positive conception of relationship which restores its proper
+tension to the notion of differences itself. This new mode of relationship
+through difference may sometimes be an achieved new and original way
+of thinking and perceiving; more often it takes the form of an
+impossible imperative to achieve that new mutation in what can perhaps
+no longer be called consciousness. I believe that the most striking
+emblem of this new mode of thinking relationships can be found in the
+75
+
+work of Nam June Paik, whose stacked or scattered television screens,
+positioned at intervals within lush vegetation, or winking down at us
+from a ceiling of strange new video stars, recapitulate over and over
+again prearranged sequences or loops of images which return at
+dysynchronous moments on the various screens. The older aesthetic is
+then practised by viewers, who, bewildered by this discontinuous
+variety, decide to concentrate on a single screen, as though the relatively
+worthless image sequence to be followed there had some organic value
+in its own right. The postmodernist viewer, however, is called upon to
+do the impossible, namely to see all the screens at once, in their radical
+and random difference; such a viewer is asked to follow the evolutionary
+mutation of David Bowie in The Man Who Fell to Earth, and to rise
+somehow to a level at which. the vivid perception of radical difference
+is in and of itself a new mode of grasping what used to be called
+relationship: something for which the word collage is still only a very
+feeble name.
+
+IV. The Hysterical Sublime
+Now we need to complete this exploratory account of postmodernist
+space and time with a final analysis of that euphoria or those intensities
+which seem so often to characterize the newer cultural experience. Let
+us stress again the enormity of a transition which leaves behind it the
+desolation of Hopper’s buildings or the stark Midwest syntax of
+Sheeler’s forms, replacing them with the extraordinary surfaces of the
+photorealist cityscape, where even the automobile wrecks gleam with
+some new halluncinatory splendour. The exhilaration of these new
+surfaces is all the more paradoxical in that their essential content—the
+city itself—has deteriorated or disintegrated to a degree surely still
+inconceivable in the early years of the 20th century, let alone in the
+previous era. How urban squalor can be a delight to the eyes, when
+expressed in commodification, and how an unparalleled quantum leap
+in the alienation of daily life in the city can now be experienced in the
+form of a strange new hallucinatory exhilaration—these are some of the
+questions that confront us in this moment of our inquiry. Nor should
+the human figure be exempted from investigation, although it seems
+clear that for the newer aesthetic the representation of space itself has
+come to be felt as incompatible with the representation of the body: a
+kind of aesthetic division of labour far more pronounced than in any of
+the earlier generic conceptions of landscape, and a most ominous
+symptom indeed. The privileged space of the newer art is radically
+anti-anthropomorphic, as in the empty bathrooms of Doug Bond’s
+work. The ultimate contemporary fetishization of the human body,
+however, takes a very different direction in the statues of Duane
+Hanson—what I have already called the simulacrum, whose peculiar
+function lies in what Sartre would have called the derealization of the
+whole surrounding world of everyday reality. Your moment of doubt
+and hesitation as to the breath and warmth of these polyester figures, in
+other words, tends to return upon the real human beings moving about
+you in the museum, and to transform them also for the briefest instant
+into so many dead and flesh-coloured simulcra in their own right. The
+world thereby momentarily loses its depth and threatens to become a
+76
+
+glossy skin, a stereoscopic illusion, a rush of filmic images without
+density. But is this now a terrifying or an exhilarating experience?
+It has proved fruitful to think such experience in terms of what Susan
+Sontag once, in an influential statement, isolated as ‘camp’. I propose a
+somewhat different cross-light on it, drawing on the equally fashionable
+current theme of the ‘sublime’, as it has been rediscovered in the works
+of Edmund Burke and Kant; or perhaps, indeed, one might well want
+to yoke the two notions together in the form of something like a camp
+or ‘hysterical’ sublime. The sublime was for Burke, as you will recall,
+an experience bordering on terror, the fitful glimpse, in astonishment,
+stupor and awe, of what was so enormous as to crush human life
+altogether: a description then refined by Kant to include the question of
+representation itself—so that the object of the sublime is now not only
+a matter of sheer power and of the physical incommensurability of the
+human organism with Nature, but also of the limits of figuration and
+the incapacity of the human mind to give representation to such
+enormous forces. Such forces Burke, in his historical moment at the
+dawn of the modern bourgeois state, was only able to conceptualize in
+terms of the divine; while even Heidegger continues to entertain a
+fantasmatic relationship with some organic precapitalist peasant landscape and village society, which is the final form of the image of Nature
+in our own time.
+Today, however, it may be possible to thik all this in a different way, at
+the moment of a radical eclipse of Nature itself: Heidegger’s ‘field path’
+is after all irredeemably and irrevocably destroyed by late capital, by the
+green revolution, by neocolonialism and the megapopolis, which runs
+its superhighways over the older fields and vacant lots, and turns
+Heidegger’s ‘house of being’ into condominiums, if not the most
+miserable unheated rat-infested tenement buildings. The other of our
+society is in that sense no longer Nature at all, as it was in precapitalist
+societies, but something else which we must now identify.
+The Apotheosis of Capitalism
+
+I am anxious that this other thing should not overhastily be grasped as
+technology per se, since I will want to show that technology is here
+itself a figure for something else. Yet technology may well serve as
+adequate shorthand to designate that enormous properly human and
+anti-natural power of dead human labour stored up in our machinery,
+an alienated power, what Sartre calls the counterfinality of the
+practico-inert, which turns back on and against us in unrecognizable
+forms and seems to constitute the massive dystopian horizon of our
+collective as well as our individual praxis.
+Technology is, however, on the Marxist view the result of the
+development of capital, rather than some primal cause in its own right.
+It will therefore be appropriate to distinguish several generations of
+machine power, several stages of technological revolution within capital
+itself. I here follow Ernest Mandel who outlines three such fundamental
+breaks or quantum leaps in the evolution of machinery under capital:
+‘The fundamental revolutions in power technology—the technology of
+77
+
+the production of motive machines by machines—thus appears as the
+determinant moment in revolutions of technology as a whole. Machine
+production of steam-driven motors since 1848; machine production of
+electric and combustion motors since the 90s of the 19th century;
+machine production of electronic and nuclear-powered apparatuses
+since the 40s of the 20th century—these are the three general revolutions
+in technology engendered by the capitalist mode of production since
+the “original” industrial revolution of the later 18th century.’ (Late
+Capitalism, p. 18.)
+The periodization underscores the general thesis of Mandel’s book Late
+Capitalism, namely that there have been three fundamental moments in
+capitalism, each one marking a dialectical expansion over the previous
+stage: these are market capitalism, the monopoly stage or the stage of
+imperialism, and our own—wrongly called postindustrial, but what
+might better be termed multinational capital. I have already pointed out
+that Mandel’s intervention in the postindustrial involves the proposition
+that late or multinational or consumer capitalism, far from being
+inconsistent with Marx’s great 19th-century analysis, constitutes on the
+contrary the purest form of capital yet to have emerged, a prodigious
+expansion of capital into hitherto uncommodified areas. This purer
+capitalism of our own time thus eliminates the enclaves of precapitalist
+organization it had hitherto tolerated and exploited in a tributary way:
+one is tempted to speak in this connection of a new and historically
+original penetration and colonization of Nature and the Unconscious:
+that is, the destruction of precapitalist third world agriculture by the
+Green Revolution, and the rise of the media and the advertising
+industry. At any rate, it will also have been clear that my own cultural
+periodization of the stages of realism, modernism and postmodernism
+is both inspired and confirmed by Mandel’s tripartite scheme.
+We may speak therefore of our own age as the Third (or even Fourth)
+Machine Age; and it is at this point that we must reintroduce the
+problem of aesthetic representation already explicitly developed in
+Kant’s earlier analysis of the sublime—since it would seem only logical
+that the relationship to, and representation of, the machine could be
+expected to shift dialectically with each of these qualitatively different
+stages of technological development.
+It is appropriate therefore to recall the excitement of machinery in the
+preceding moment of capital, the exhilaration of futurism most notably,
+and of Marinetti’s celebration of the machine gun and the motor car.
+These are still visible emblems, sculptural nodes of energy which give
+tangibility and figuration to the motive energies of that earlier moment
+of modernization. The prestige of these great streamlined shapes can be
+measured by their metaphorical presence in Le Corbusier’s buildings,
+vast Utopian structures which ride like so many gigantic steamshipliners
+upon the urban scenery of an older fallen earth. Machinery exerts
+another kind of fascination in artists like Picabia and Duchamp, whom
+we have no time to consider here; but let me mention, for the sake of
+completeness, the ways in which revolutionary or communist artists of
+the 1930s also sought to reappropriate this excitement of machine
+78
+
+energy for a Promethean reconstruction of human society as a whole, as
+in Fernand Leger and Diego Rivera.
+What must then immediately be observed is that the technology of our
+own moment no longer possesses this same capacity for representation:
+not the turbine, nor even Sheeler’s grain elevators or smokestacks, not
+the baroque elaboration of pipes and conveyor belts nor even the
+streamlined profile of the railroad train—all vehicles of speed still
+concentrated at rest—but rather the computer, whose outer shell has no
+emblematic or visual power, or even the casings of the various media
+themselves, as with that home appliance called television which articulates nothing but rather implodes, carrying its flattened image surface
+within itself.
+Such machines are indeed machines of reproduction rather than of
+production, and they make very different demands on our capacity for
+aesthetic representation than did the relatively mimetic idolatry of the
+older machinery of the futurist moment, of some older speed-andenergy sculpture. Here we have less to do with kinetic energy than with
+all kinds of new reproductive processes; and in the weaker productions
+of postmodernism the aesthetic embodiment of such processes often
+tends to slip back more comfortably into a mere thematic representation
+of content—into narratives which are about the processes of reproduction, and include movie cameras, video, tape recorders, the whole
+technology of the production and reproduction of the simulacrum.
+(The shift from Antonioni’s modernist Blowup to DePalma’s postmodernist Blowout is here paradigmatic.) When Japanese architects, for
+example, model a building on the decorative imitation of stacks of
+cassettes, then the solution is at best a thematic and allusive, although
+often humorous, one.
+Yet something else does tend to emerge in the most energetic postmodernist texts, and it is the sense that beyond all thematics or content the
+work seems somehow to tap the networks of reproductive process and
+thereby to afford us some glimpse into a post-modern or technological
+sublime, whose power or authenticity is documented by the success of
+such works in evoking a whole new postmodern space in emergence
+around us. Architecture therefore remains in this sense the privileged
+aesthetic language; and the distorting and fragmenting reflexions of one
+enormous glass surface to the other can be taken as paradigmatic of the
+central role of process and reproduction in postmodernist culture.
+As I have said, however, I want to avoid the implication that technology
+is in any way the ‘ultimately determining instance’ either of our
+present-day social life or of our cultural production: such a thesis is of
+course ultimately at one with the post-Marxist notion of a ‘postindustrialist’ society. Rather, I want to suggest that our faulty representations of some immense communicational and computer network are
+themselves but a distorted figuration of something even deeper, namely
+the whole world system of present-day multinational capitalism. The
+technology of contemporary society is therefore mesmerizing and
+fascinating, not so much in its own right, but because it seems to offer
+some privileged representational shorthand for grasping a network of
+79
+
+power and control even more difficult for our minds and imaginations
+to grasp—namely the whole new decentred global network of the third
+stage of capital itself. This is a figural process presently best observed in
+a whole mode of contemporary entertainment literature, which one is
+tempted to characterize as ‘high tech paranoia’, in which the circuits
+and networks of some putative global computer hook-up are narratively
+mobilized by labyrinthine conspiracies of autonomous but deadly
+interlocking and competing information agencies in a complexity often
+beyond the capacity of the normal reading mind. Yet conspiracy theory
+(and its garish narrative manifestations) must be seen as a degraded
+attempt—through the figuration of advanced technology—to think the
+impossible totality of the contemporary world system. It is therefore in
+terms of that enormous and threatening, yet only dimly perceivable,
+other reality of economic and social institutions that in my opinion the
+postmodern sublime can alone be adequately theorized.
+
+V. Post-Modernism and the City
+Now, before I try to offer a somewhat more positive conclusion, I want
+to sketch the analysis of a full-blown postmodern building—a work
+which is in many ways uncharacteristic of that postmodern architecture
+whose principal names are Robert Venturi, Charles Moore, Michael
+Graves, and more recently Frank Gehry, but which to my mind offers
+some very striking lessons about the originality of postmodernist space.
+Let me amplify the figure which has run through the preceding remarks,
+and make it even more explicit: I am proposing the motion that we are
+here in the presence of something like a mutation in built space itself.
+My implication is that we ourselves, the human subjects who happen
+into this new space, have not kept pace with that evolution; there has
+been a mutation in the object, unaccompanied as yet by any equivalent
+mutation in the subject; we do not yet possess the perceptual equipment
+to match this new hyperspace, as I will call it, in part because our
+perceptual habits were formed in that older kind of space I have called
+the space of high modernism. The newer architecture therefore—like
+many of the other cultural products I have evoked in the preceding
+remarks—stands as something like an imperative to grow new organs,
+to expand our sensorium and our body to some new, as yet unimaginable, perhaps ultimately impossible, dimensions.
+The Bonaventura Hotel
+
+The building whose features I will very rapidly enumerate in the next
+few moments is the Bonaventura Hotel, built in the new Los Angeles
+downtown by the architect and developer John Portman, whose other
+works include the various Hyatt Regencies, the Peachtree Center in
+Atlanta, and the Renaissance Center in Detroit. I have mentioned the
+populist aspect of the rhetorical defence of postmodernism against the
+elite (and Utopian) austerities of the great architectural modernisms: it
+is generally affirmed, in other words, that these newer buildings are
+popular works on the one hand; and that they respect the vernacular of
+the American city fabric on the other, that is to say, that they no longer
+attempt, as did the masterworks and monuments of high modernism, to
+insert a different, a distinct, an elevated, a new Utopian language into
+80
+
+the tawdry and commercial sign-system of the surrounding city, but
+rather, on the contrary, seek to speak that very language, using its
+lexicon and syntax as that has been emblematically ‘learned from Las
+Vegas’.
+On the first of these counts, Portman’s Bonaventura fully confirms the
+claim: it is a popular building, visited with enthusiasm by locals and
+tourists alike (although Portman’s other buildings are even more
+successful in this respect). The populist insertion into the city fabric is,
+however, another matter, and it is with this that we will begin. There
+are three entrances to the Bonaventura, one from Figueroa, and the other
+two by way of elevated gardens on the other side of the hotel, which is
+built into the remaining slope of the former Beacon Hill. None of these
+is anything like the old hotel marquee, or the monumental portecochère with which the sumptuous buildings of yesteryear were wont
+to stage your passage from city street to the older interior. The entryways of the Bonaventura are as it were lateral and rather backdoor affairs:
+the gardens in the back admit you to the sixth floor of the towers, and
+even there you must walk down one flight to find the elevator by which
+you gain access to the lobby. Meanwhile, what one is still tempted to
+think of as the front entry, on Figueroa, admits you, baggage and all,
+onto the second-storey shopping balcony, from which you must take an
+escalator down to the main registration desk. More about these elevators
+and escalators in a moment. What I first want to suggest about these
+curiously unmarked ways-in is that they seem to have been imposed by
+some new category of closure governing the inner space of the hotel
+itself (and this over and above the material constraints under which
+Portman had to work). I believe that, with a certain number of other
+characteristic postmodern buildings, such as the Beaubourg in Paris, or
+the Eaton Centre in Toronto, the Bonaventura aspires to being a total
+space, a complete world, a kind of miniature city (and I would want to
+add that to this new total space corresponds a new collective practice,
+a new mode in which individuals move and congregate, something like
+the practice of a new and historically original kind of hyper-crowd). In
+this sense, then, ideally the mini-city of Portman’s Bonaventura ought
+not to have entrances at all, since the entryway is always the seam that
+links the building to the rest of the city that surrounds it: for it does not
+wish to be a part of the city, but rather its equivalent and its replacement
+or substitute. That is, however, obviously not possible or practical,
+whence the deliberate downplaying and reduction of the entrance
+function to its bare minimum. But this disjunction from the surrounding
+city is very different from that of the great monuments of the
+International Style: there, the act of disjunction was violent, visible,
+and had a very real symbolic significance—as in Le Corbusier’s great
+pilotis whose gesture radically separates the new Utopian space of the
+modern from the degraded and fallen city fabric which it thereby
+explicitly repudiates (although the gamble of the modern was that this
+new Utopian space, in the virulence of its Novum, would fan out and
+transform that eventually by the very power of its new spatial language).
+The Bonaventura, however, is content to ‘let the fallen city fabric
+continue to be in its being’ (to parody Heidegger); no further effects, no
+larger protopolitical Utopian transformation, is either expected or
+desired.
+81
+
+This diagnosis is to my mind confirmed by the great reflective glass
+skin of the Bonaventura, whose function I will now interpret rather
+differently than I did a moment ago when I saw the phenomenon of
+reflexion generally as developing a thematics of reproductive technology
+(the two readings are however not incompatible). Now one would want
+rather to stress the way in which the glass skin repels the city outside;
+a repulsion for which we have analogies in those reflector sunglasses
+which make it impossible for your interlocutor to see your own eyes
+and thereby achieve a certain aggressivity towards and power over the
+Other. In a similar way, the glass skin achieves a peculiar and placeless
+dissociation of the Bonaventura from its neighbourhood: it is not even an
+exterior, inasmuch as when you seek to look at the hotel’s outer walls
+you cannot see the hotel itself, but only the distorted images of
+everything that surrounds it.
+Now I want to say a few words about escalators and elevators: given
+their very real pleasures in Portman, particularly these last, which the
+artist has termed ‘gigantic kinetic sculptures’ and which certainly
+account for much of the spectacle and the excitement of the hotel
+interior, particularly in the Hyatts, where like great Japanese lanterns or
+gondolas they ceaselessly rise and fall—given such a deliberate marking
+and foregrounding in their own right, I believe one has to see such
+‘people movers’ (Portman’s own term, adapted from Disney) as something a little more than mere functions and engineering components.
+We know in any case that recent architectural theory has begun to
+borrow from narrative analysis in other fields, and to attempt to see our
+physical trajectories through such buildings as virtual narratives or
+stories, as dynamic paths and narrative paradigms which we as visitors
+are asked to fulfil and to complete with our own bodies and movements.
+In the Bonaventura, however, we find a dialectical heightening of this
+process: it seems to me that the escalators and elevators here henceforth
+replace movement but also and above all designate themselves as new
+reflexive signs and emblems of movement proper (something which
+will become evident when we come to the whole question of what
+remains of older forms of movement in this building, most notably
+walking itself). Here the narrative stroll has been underscored, symbolized, reified and replaced by a transportation machine which becomes
+the allegorical signifier of that older promenade we are no longer
+allowed to conduct on our own: and this is a dialectical intensification
+of the autoreferentiality of all modern culture, which tends to turn upon
+itself and designate its own cultural production as its content.
+I am more at a loss when it comes to conveying the thing itself, the
+experience of space you undergo when you step off such allegorical
+devices into the lobby or atrium, with its great central column,
+surrounded by a miniature lake, the whole positioned between the four
+symmetrical residential towers with their elevators, and surrounded by
+rising balconies capped by a kind of greenhouse roof at the sixth level.
+I am tempted to say that such space makes it impossible for us to use
+the language of volume or volumes any longer, since these last are
+impossible to seize. Hanging streamers indeed suffuse this empty space
+in such a way as to distract systematically and deliberately from
+whatever form it might be supposed to have; while a constant busyness
+82
+
+gives the feeling that emptiness is here absolutely packed, that it is an
+element within which you yourself are immersed, without any of that
+distance that formerly enabled the perception of perspective or volume.
+You are in this hyperspace up to your eyes and your body; and if it
+seemed to you before that that suppression of depth I spoke of in
+postmodern painting or literature would necessarily be difficult to
+achieve in architecture itself, perhaps you may now be willing to see
+this bewildering immersion as the formal equivalent in the new medium.
+Yet escalator and elevator are also in this context dialectical opposites;
+and we may suggest that the glorious movement of the elevator
+gondolas is also a dialectical compensation for this filled space of the
+atrium—it gives us the chance at a radically different, but complementary, spatial experience, that of rapidly shooting up through the ceiling
+and outside, along one of the four symmetrical towers, with the
+referent, Los Angeles itself, spread out breathtakingly and even alarmingly before us. But even this vertical movement is contained: the
+elevator lifts you to one of those revolving cocktail lounges, in which
+you, seated, are again passively rotated about and offered a contemplative spectacle of the city itself, now transformed into its own images by
+the glass windows through which you view it.
+Let me quickly conclude all this by returning to the central space of the
+lobby itself (with the passing observation that the hotel rooms are
+visibly marginalized: the corridors in the residential sections are lowceilinged and dark, most depressingly functional indeed; while one
+understands that the rooms are in the worst of taste). The descent is
+dramatic enough, plummeting back down through the roof to splash
+down in the lake; what happens when you get there is something else,
+which I can only try to characterize as milling confusion, something
+like the vengeance this space takes on those who still seek to walk
+through it. Given the absolute symmetry of the four towers, it is quite
+impossible to get your bearings in this lobby; recently, colour coding
+and directional signals have been added in a pitiful and revealing, rather
+desperate attempt to restore the coordinates of an older space. I will
+take as the most dramatic practical result of this spatial mutation the
+notorious dilemma of the shopkeepers on the various balconies: it has
+been obvious, since the very opening of the hotel in 1977, that nobody
+could ever find any of these stores, and even if you located the
+appropriate boutique, you would be most unlikely to be as fortunate a
+second time; as a consequence, the commercial tenants are in despair
+and all the merchandise is marked down to bargain prices. When you
+recall that Postman is a businessman as well as an architect, and a
+millionaire developer, an artist who is at one and the same time a
+capitalist in his own right, one cannot but feel that here too something
+of a ‘return of the repressed’ is involved.
+So I come finally to my principal point here, that this latest mutation in
+space—postmodern hyperspace—has finally succeeded in transcending
+the capacities of the individual human body to locate itself, to organize
+its immediate surroundings perceptually, and cognitively to map its
+position in a mappable external world. And I have already suggested
+that this alarming disjunction point between the body and its built
+83
+
+environment—which is to the initial bewilderment of the older modernism as the velocities of space craft are to those of the automobile—can
+itself stand as the symbol and analogue of that even sharper dilemma
+which is the incapacity of our minds, at least at present, to map the
+great global multinational and decentred communicational network in
+which we find ourselves caught as individual subjects.
+The New Machine
+
+But as I am anxious that Portman’s space not be perceived as something
+either exceptional or seemingly marginalized and leisure-specialized on
+the order of Disneyland, I would like in passing to juxtapose this
+complacent and entertaining (although bewildering) leisure-time space
+with its analogue in a very different area, namely the space of
+postmodern warfare, in particular as Michael Herr evokes it in his great
+book on the experience of Vietnam, called Dispatches. The extraordinary
+linguistic innovations of this work may still be considered postmodern,
+in the eclectic way in which its language impersonally fuses a whole
+range of contemporary collective idiolects, most notably rock language
+and Black language: but the fusion is dictated by problems of content.
+This first terrible postmodernist war cannot be told in any of the
+traditional paradigms of the war novel or movie—indeed that breakdown of all previous narrative paradigms is, along with the breakdown
+of any shared language through which a veteran might convey such
+experience, among the principal subjects of the book and may be said to
+open up the place of a whole new reflexivity. Benjamin’s account of
+Baudelaire, and of the emergence of modernism from a new experience
+of city technology which transcends all the older habits of bodily
+perception, is both singularly relevant here, and singularly antiquated,
+in the light of this new and virtually unimaginable quantum leap in
+technological alienation: ‘He was a moving-target-survivor subscriber,
+a true child of the war, because except for the rare times when you were
+pinned or stranded the system was geared to keep you mobile, if that
+was what you thought you wanted. As a technique for staying alive it
+seemed to make as much sense as anything, given naturally that you
+were there to begin with and wanted to see it close; it started out sound
+and straight but it formed a cone as it progressed, because the more you
+moved the more you saw, the more you saw the more besides death and
+mutilation you risked, and the more you risked of that the more you
+would have to let go of one day as a “survivor”. Some of us moved
+around the war like crazy people until we couldn’t see which way the
+run was taking us anymore, only the war all over its surface with
+occasional, unexpected penetration. As long as we could have choppers
+like taxis it took real exhaustion or depression near shock or a dozen
+pipes of opium to keep us even apparently quiet, we’d still be running
+around inside our skins like something was after us, ha ha, La Vida
+Loca. In the months after I got back the hundreds of helicopters I’d
+flown in began to draw together until they’d formed a collective metachopper, and in my mind it was the sexiest thing going; saver-destroyer,
+provider-waster, right hand-left hand, nimble, fluent, canny and human;
+hot steel, grease, jungle-saturated canvas webbing, sweat cooling and
+warming up again, cassette rock and roll in one ear and door-gun fire
+84
+
+in the other, fuel, heat, vitality and death, death itself, hardly an
+intruder.’*
+In this new machine, which does not, like the older modernist machinery
+of the locomotive or the airplane, represent motion, but which can only
+be represented in motion, something of the mystery of the new postmodernist space is concentrated.
+
+VI. The Abolition of Critical Distance
+The conception of postmodernism outlined here is a historical rather
+than a merely stylistic one. I cannot stress too greatly the radical
+distinction between a view for which the postmodern is one (optional)
+style among many others available, and one which seeks to grasp it as
+the cultural dominant of the logic of late capitalism: the two approaches
+in fact generate two very different ways of conceptualizing the phenomenon as a whole, on the one hand moral judgements (about which it
+is indifferent whether they are positive or negative), and on the other a
+genuinely dialectical attempt to think our present of time in History.
+Of some positive moral evaluation of postmodernism little needs to be
+said: the complacent (yet delirious) camp-following celebration of this
+aesthetic new world (including its social and economic dimension,
+greeted with equal enthusiasm under the slogan of ‘post-industrial
+society’) is surely unacceptable—although it may be somewhat less
+obvious the degree to which current fantasies about the salvational
+nature of high technology, from chips to robots—fantasies entertained
+not only by left as well as right governments in distress, but also by
+many intellectuals—are essentially of a piece with more vulgar apologies
+for postmodernism.
+But in that case it is also logical to reject moralizing condemnations of
+the postmodern and of its essential triviality, when juxtaposed against
+the Utopian ‘high seriousness’ of the great modernisms: these are also
+judgements one finds both on the Left and on the radical Right. And
+no doubt the logic of the simulacrum, with its transformation of older
+realities into television images, does more than merely replicate the
+logic of late capitalism; it reinforces and intensifies it. Meanwhile, for
+political groups which seek actively to intervene in history and to
+modify its otherwise passive momentum (whether with a view towards
+channeling it into a socialist transformation of society or diverting it
+into the regressive reestablishment of some simpler fantasy past), there
+cannot but be much that is deplorable and reprehensible in a cultural
+form of image addiction which, by transforming the past visual mirages,
+stereotypes or texts, effectively abolishes any practical sense of the
+future and of the collective project, thereby abandoning the thinking of
+future change to fantasies of sheer catastrophe and inexplicable cataclysm—from visions of ‘terrorism’ on the social level to those of cancer
+on the personal. Yet if postmodernism is a historical phenomenon, then
+the attempt to conceptualize it in terms of moral or moralizing
+judgements must finally be identified as a category-mistake. All of
+which becomes more obvious when we interrogate the position of the
+* Michael Herr, Dispatches, New York 1978, pp. 8–9.
+
+85
+
+cultural critic and moralist: this last, along with all the rest of us, is now
+so deeply immersed in postmodernist space, so deeply suffused and
+infected by its new cultural categories, that the luxury of the oldfashioned ideological critique, the indignant moral denunciation of the
+other, becomes unavailable.
+The distinction I am proposing here knows one canonical form in
+Hegel’s differentiation of the thinking of individual morality or moralizing (Moralitá´ t) from that whole very different realm of collective social
+values and practices (Sittlichkeit). But it finds its definitive form in
+Marx’s demonstration of the materialist dialectic, most notably in those
+classic pages of the Manifesto which teach the hard lesson of some more
+genuinely dialectical way to think historical development and change.
+The topic of the lesson is, of course, the historical development of
+capitalism itself and the deployment of a specific bourgeois culture. In
+a well-known passage, Marx powerfully urges us to do the impossible,
+namely to think this development positively and negatively all at once;
+to achieve, in other words, a type of thinking that would be capable of
+grasping the demonstrably baleful features of capitalism along with its
+extraordinary and liberating dynamism simultaneously, within a single
+thought, and without attenuating any of the force of either judgement.
+We are, somehow, to lift our minds to a point at which it is possible to
+understand that capitalism is at one and the same time the best thing
+that has ever happened to the human race, and the worst. The lapse
+from this austere dialectical imperative into the more comfortable stance
+of the taking of moral positions is inveterate and all too human: still,
+the urgency of the subject demands that we make at least some effort to
+think the cultural evolution of late capitalism dialectically, as catastrophe
+and progress all together.
+Such an effort suggests two immediate questions, with which we will
+conclude these reflexions. Can we in fact identify some ‘moment of
+truth’ within the more evident ‘moments of falsehood’ of postmodern
+culture? And, even if we can do so, is there not something ultimately
+paralysing in the dialectical view of historical development proposed
+above; does it not tend to demobilize us and to surrender us to passivity
+and helplessness, by systematically obliterating possibilities of action
+under the impenetrable fog of historical inevitability? It will be
+appropriate to discuss these two (related) issues in terms of current
+possibilities for some effective contemporary cultural politics and for
+the construction of a genuine political culture.
+To focus the problem in this way is of course immediately to raise the
+more genuine issue of the fate of culture generally, and of the function
+of culture specifically, as one social level or instance, in the postmodern
+era. Everything in the previous discussion suggests that what we have
+been calling postmodernism is inseparable from, and unthinkable
+without the hypothesis of, some fundamental mutation of the sphere of
+culture in the world of late capitalism, which includes a momentous
+modification of its social function. Older discussions of the space,
+function or sphere of culture (most notably Herbert Marcuse’s classic
+essay on ‘The Affirmative Character of Culture’) have insisted on what
+a different language would call the ‘semi-autonomy’ of the cultural
+86
+
+realm: its ghostly, yet Utopian, existence, for good or ill, above the
+practical world of the existent, whose mirror image it throws back in
+forms which vary from the legitimations of flattering resemblance to
+the contestatory indictments of critical satire or Utopian pain.
+What we must now ask ourselves is whether it is not precisely this
+‘semi-autonomy’ of the cultural sphere which has been destroyed by the
+logic of late capitalism. Yet to argue that culture is today no longer
+endowed with the relative autonomy it once enjoyed as one level among
+others in earlier moments of capitalism (let alone in pre-capitalist
+societies), is not necessarily to imply its disappearance or extinction. On
+the contrary: we must go on to affirm that the dissolution of an
+autonomous sphere of culture is rather to be imagined in terms of an
+explosion: a prodigious expansion of culture throughout the social
+realm, to the point at which everything in our social life—from
+economic value and state power to practices and to the very structure
+of the psyche itself—can be said to have become ‘cultural’ in some
+original and as yet untheorized sense. This perhaps startling proposition
+is, however, substantively quite consistent with the previous diagnosis
+of a society of the image or the simulacrum, and a transformation of the
+‘real’ into so many pseudo-events.
+It also suggests that some of our most cherished and time-honoured
+radical conceptions about the nature of cultural politics may thereby
+find themselves outmoded. However distinct those conceptions may
+have been—which range from slogans of negativity, opposition, and
+subversion to critique and reflexivity—they all shared a single, fundamentally spatial, presupposition, which may be resumed in the equally
+time-honoured formula of ‘critical distance’. No theory of cultural
+politics current on the Left today has been able to do without one
+notion or another of a certain minimal aesthetic distance, of the
+possibility of the positioning of the cultural act outside the massive
+Being of capital, which then serves as an Archimedean point from
+which to assault this last. What the burden of our preceding demonstration suggests, however, is that distance in general (including ‘critical
+distance’ in particular) has very precisely been abolished in the new
+space of postmodernism. We are submerged in its henceforth filled and
+suffused volumes to the point where our now postmodern bodies are
+bereft of spatial coordinates and practically (let alone theoretically)
+incapable of distantiation; meanwhile, it has already been observed how
+the prodigious new expansion of multinational capital ends up penetrating and colonizing those very pre-capitalist enclaves (Nature and the
+Unconscious) which offered extraterritorial and Archimedean footholds
+for critical effectivity. The short-hand language of ‘cooptation’ is for
+this reason omnipresent on the Left; but offers a most inadequte
+theoretical basis for understanding a situation in which we all, in one
+way or another, dimly feel that not only punctual and local countercultural forms of cultural resistance and guerrilla warfare, but also even
+overtly political interventions like those of The Clash, are all somehow
+secretly disarmed and reabsorbed by a system of which they themselves
+might well be considered a part, since they can achieve no distance
+from it.
+87
+
+What we must now affirm is that it is precisely this whole extraordinarily
+demoralizing and depressing original new global space which is the
+‘moment of truth’ of postmodernism. What has been called the
+postmodernist ‘sublime’ is only the moment in which this content has
+become most explicit, has moved the closest to the surface of consciousness, as a coherent new type of space in its own right—even though a
+certain figural concealment or disguise is still at work here, most
+notably in the high-technological thematics in which the new spatial
+content is still dramatized and articulated. Yet the earlier features of the
+postmodern which were enumerated above can all now be seen as
+themselves partial (yet constitutive) aspects of the same general spatial
+object.
+The argument for a certain authenticity in these otherwise patently
+ideological productions depends on the prior proposition that what we
+have now been calling postmodern (or multinational) space is not
+merely a cultural ideology or fantasy, but has genuine historical (and
+socio-economic) reality as a third great original expansion of capitalism
+around the globe (after the earlier expansions of the national market
+and the older imperialist system, which each had their own cultural
+specificity and generated new types of space appropriate to their
+dynamics). The distorted and unreflexive attempts of newer cultural
+production to explore and to express this new space must then also, in
+their own fashion, be considered as so many approaches to the
+representation of (a new) reality (to use a more antiquated language).
+As paradoxical as the terms may seem, they may thus, following a
+classic interpretive option, be read as peculiar new forms of realism (or
+at least of the mimesis of reality), at the same time that they can equally
+well be analysed as so many attempts to distract and to divert us from
+that reality or to disguise its contradictions and resolve them in the
+guise of various formal mystifications.
+As for that reality itself, however—the as yet untheorized original space
+of some new ‘world system’ of multinational or late capitalism (a space
+whose negative or baleful aspects are only too obvious), the dialectic
+requires us to hold equally to a positive or ‘progressive’ evaluation of
+its emergence, as Marx did for the newly unified space of the national
+markets, or as Lenin did for the older imperialist global network. For
+neither Marx nor Lenin was socialism a matter of returning to small
+(and thereby less repressive and comprehensive) systems of social
+organization; rather, the dimensions attained by capital in their own
+times were grasped as the promise, the framework, and the precondition
+for the achievement of some new and more comprehensive socialism.
+How much the more is this not the case with the even more global and
+totalizing space of the new world system, which demands the invention
+and elaboration of an internationalism of a radically new type? The
+disastrous realignment of socialist revolution with the older nationalisms
+(not only in Southeast Asia), whose results have necessarily aroused
+much serious recent Left reflexion, can be adduced in support of this
+position.
+
+88
+
+The Need for Maps
+
+But if all this is so, then at least one possible form of a new radical
+cultural politics becomes evident: with a final aesthetic proviso that
+must quickly be noted. Left cultural producers and theorists—particularly those formed by bourgeois cultural traditions issuing from
+romanticism and valorizing spontaneous, instinctive or unconscious
+forms of ‘genius’—but also for very obvious historical reasons such as
+Zhdanovism and the sorry consequences of political and party interventions in the arts—have often by reaction allowed themselves to be
+unduly intimidated by the repudiation, in bourgeois aesthetics and most
+notably in high modernism, of one of the age-old functions of art—
+namely the pedagogical and the didactic. The teaching function of art
+was, however, always stressed in classical times (even though it there
+mainly took the form of moral lessons); while the prodigious and still
+imperfectly understood work of Brecht reaffirms, in a new and formally
+innovative and original way, for the moment of modernism proper, a
+complex new conception of the relationship between culture and
+pedagogy. The cultural model I will propose similarly foregrounds the
+cognitive and pedagogical dimensions of political art and culture,
+dimensions stressed in very different ways by both Lukács and Brecht
+(for the distinct moments of realism and modernism, respectively).
+We cannot, however, return to aesthetic practices elaborated on the
+basis of historical situations and dilemmas which are no longer ours.
+Meanwhile, the conception of space that has been developed here
+suggests that a model of political culture appropriate to our own
+situation will necessarily have to raise spatial issues as its fundamental
+organizing concern. I will therefore provisionally define the aesthetic of
+such new (and hypothetical) cultural form as an aesthetic of cognitive
+mapping.
+In a classic work, The Image of the City, Kevin Lynch taught us that the
+alienated city is above all a space in which people are unable to map (in
+their minds) either their own positions or the urban totality in which
+they find themselves: grids such as those of Jersey City, in which none
+of the traditional markers (monuments, nodes, natural boundaries, built
+perspectives) obtain, are the most obvious examples. Disalienation in
+the traditional city, then, involves the practical reconquest of a sense of
+place, and the construction or reconstruction of an articulated ensemble
+which can be retained in memory and which the individual subject can
+map and remap along the moments of mobile, alternative trajectories.
+Lynch’s own work is limited by the deliberate restriction of his topic to
+the problems of the city form as such; yet it becomes extraordinarily
+suggestive when projected outwards onto some of the larger national
+and global spaces we have touched on here. Nor should it be too hastily
+assumed that his model—while it clearly raises very central issues of
+representation as such—is in any way easily vitiated by the conventional
+poststructuralist critiques of the ‘ideology of representation’ or mimesis.
+The cognitive map is not exactly mimetic, in that older sense; indeed
+the theoretical issues it poses allow us to renew the analysis of
+representation on a higher and much more complex level.
+89
+
+There is, for one thing, a most interesting convergence between the
+empirical problems studied by Lynch in terms of city space and the
+great Althusserian (and Lacanian) redefinition of ideology as ‘the
+representation of the subject’s Imaginary relationship to his or her Real
+conditions of existence’. Surely this is exactly what the cognitive map is
+called upon to do, in the narrower framework of daily life in the
+physical city: to enable a situational representation on the part of the
+individual subject to that vaster and properly unrepresentable totality
+which is the ensemble of the city’s structure as a whole.
+Yet Lynch’s work also suggests a further line of development insofar as
+cartography itself constitutes its key mediatory instance. A return to the
+history of this science (which is also an art) shows us that Lynch’s
+model does not yet in fact really correspond to what will become mapmaking. Rather, Lynch’s subjects are clearly involved in pre-cartographic operations whose results traditionally are described as itineraries
+rather than as maps; diagrams organized around the still subject-centred
+or existential journey of the traveller, along which various significant
+key features are marked—oases, mountain ranges, rivers, monuments
+and the like. The most highly developed form of such diagrams is the
+nautical itinerary, the sea chart or portulans, where coastal features are
+noted for the use of Mediterranean navigators who rarely venture out
+into the open sea.
+Yet the compass at once introduces a new dimension into sea charts, a
+dimension that will utterly transform the problematic of the itinerary
+and allow us to pose the problem of a genuine cognitive mapping in a
+far more complex way. For the new instruments—compass, sextant and
+theodolite—do not merely correspond to new geographic and navigational problems (the difficult matter of determining longitude, particularly on the curving surface of the planet, as opposed to the simpler
+matter of latitude, which European navigators can still empirically
+determine by ocular inspection of the African coast); they also introduce
+a whole new coordinate—that of relationship to the totality, particuarly
+as it is mediated by the stars and by new operations like that of
+triangulation. At this point, cognitive mapping in the broader sense
+comes to require the coordination of existential data (the empirical
+position of the subject) with unlived, abstract conceptions of the
+geographic totality.
+Finally, with the first globe (1490) and the invention of the Mercator
+projection around the same period, yet a third dimension of cartography
+emerges, which at once involves what we would today call the nature
+of representational codes, the intrinsic structures of the various media,
+the intervention, into more naive mimetic conceptions of mapping, of
+the whole new fundamental question of the languages of representation
+itself: and in particular the unresolvable (well-nigh Heisenbergian)
+dilemma of the transfer of curved space to flat charts; at which point it
+becomes clear that there can be no true maps (at the same time in which
+it also becomes clear that there can be scientific progress, or better still,
+a dialectical advance, in the various historical moments of map-making).
+90
+
+Social Cartography and Symbol
+
+Transcoding all this now into the very different problematic of the
+Althusserian definition of ideology, one would want to make two
+points. The first is that the Althusserian concept now allows us to
+rethink these specialized geographical and cartographic issues in terms
+of social space, in terms, for example, of social class and national or
+international context, in terms of the ways in which we all necessarily
+also cognitively map our individual social relationship to local, national
+and international class realities. Yet to reformulate the problem in this
+way is also to come starkly up against those very difficulties in mapping
+which are posed in heightened and original ways by that very global
+space of the postmodernist or multinational moment which has been
+under discussion here. These are not merely theoretical issues, but have
+urgent practical political consequences: as is evident from the conventional feelings of First World subjects that existentially (or ‘empirically’)
+they really do inhabit a ‘postindustrial society’, from which traditional
+production has disappeared and in which social classes of the classical
+type no longer exist—a conviction which has immediate effects on
+political praxis.
+The second observation to be proposed is that a return to the Lacanian
+underpinnings of Althusser’s theory can afford some useful and suggestive methodological enrichments. Althusser’s formulation remobilizes
+an older and henceforth classical Marxian distinction between science
+and ideology, which is still not without value for us. The existential—
+the positioning of the individual subject, the experience of daily life, the
+monadic ‘point of view’ on the world to which we are necessarily, as
+biological subjects, restricted—is in Althusser’s formula implicitly
+opposed to the realm of abstract knowledge, a realm which as Lacan
+reminds us is never positioned in or actualized by any concrete subject
+but rather by that structural void called ‘le sujet supposé savoir’, ‘the
+subject supposed to know’, a subject-place of knowledge: what is
+affirmed is not that we cannot know the world and its totality in some
+abstract or ‘scientific’ way—Marxian ‘science’ provides just such a way
+of knowing and conceptualizing the world abstractly, in the sense in
+which, e.g. Mandel’s great book offers a rich and elaborated knowledge
+of that global world system, of which it has never been said here that it
+was unknowable, but merely that it was unrepresentable, which is a
+very different matter. The Althusserian formula in other words designates a gap, a rift, between existential experience and scientific knowledge: ideology has then the function of somehow inventing a way of
+articulating those two distinct dimensions with each other. What a
+historicist view of this ‘definition’ would want to add is that such
+coordination, the production of functioning and living ideologies, is
+distinct in different historical situations, but above all, that there may be
+historical situations in which it is not possible at all—and this would
+seem to be our situation in the current crisis.
+But the Lacanian system is three-fold and not dualistic. To the
+Marxian-Althusserian opposition of ideology and science correspond
+only two of Lacan’s tripartite functions, the Imaginary and the Real,
+respectively. Our digression on cartography, however, with its final
+91
+
+revelation of a properly representational dialectic of the codes and
+capacities of individual languages or media, reminds us that what has
+until now been omitted was the dimension of the Lacanian Symbolic
+itself.
+An aesthetic of cognitive mapping—a pedagogical political culture
+which seeks to endow the individual subject with some new heightened
+sense of its place in the global system—will necessarily have to respect
+this now enormously complex representational dialectic and to invent
+radically new forms in order to do it justice. This is not, then, clearly a
+call for a return to some older kind of machinery, some older and more
+transparent national space, or some more traditional and reassuring
+perspectival or mimetic enclave: the new political art—if it is indeed
+possible at all—will have to hold to the truth of postmodernism, that is,
+to say, to its fundamental object—the world space of multinational
+capital—at the same time at which it achieves a breakthrough to some
+as yet unimaginable new mode of representing this last, in which we
+may again begin to grasp our positioning as individual and collective
+subjects and regain a capacity to act and struggle which is at present
+neutralized by our spatial as well as our social confusion. The political
+form of postmodernism, if there ever is any, will have as its vocation
+the invention and projection of a global cognitive mapping, on a social
+as well as a spatial scale.
+
+92
